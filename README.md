@@ -21,7 +21,7 @@ It combines learning, financial independence, and personal transformation throug
 A clearly structured monthly plan across ETFs, gold, and selected equities.  
 Investments are split between Scalable Capital (main portfolio) and Trade Republic (mini-experiments).
 
-![Fixed Investment Plan](./assets/fixed_investment_plan.png)
+![Fixed Investment Plan](/fixed_investment_plan.png)
 
 ---
 
