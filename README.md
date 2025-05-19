@@ -35,8 +35,8 @@ Overview of the current portfolio distribution: ETFs, crypto, equities and gold.
 
 ## File Contents
 
--  [`Projekt Z_Portfolio.xlsx`](./Projekt Z_Portfolio.xlsx) – the full Excel file:
-  - All investments since May 9, 2025 (including active/inactive status)
+- [`Projekt Z Portfolio.xlsx`](./Projekt Z_Portfolio.xlsx) – the full Excel file:
+- All investments since May 9, 2025 (including active/inactive status)
   - Cumulative logic, fee structure, and filtering
   - Portfolio visualizations and breakdowns (4 charts)
 - `/assets/` – includes:
