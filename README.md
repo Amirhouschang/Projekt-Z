@@ -29,7 +29,9 @@ Investments are split between Scalable Capital (main portfolio) and Trade Republ
 
 Overview of the current portfolio distribution: ETFs, crypto, equities and gold.
 
-![Portfolio Allocation](/portfolio_allocation.png)
+<p align="center">
+  <img src="./portfolio_allocation.png" width="600">
+</p>
 
 ---
 
