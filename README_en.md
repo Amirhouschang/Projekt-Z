@@ -53,7 +53,7 @@ This section provides a structured summary of the project's data, tools, and vis
 
 ---
 
-### ⚙️ Tools and Methods
+###  Tools and Methods
 
 **Microsoft Excel**  
 Used for structured tracking, automated calculations, and clean visualizations:
@@ -75,7 +75,7 @@ All data is manually extracted from:
 
 ---
 
-### 🔬 Future Development Plans
+### Future Development Plans
 
 - Time series analysis (monthly updates on value and allocation)  
 - Visualization with Power BI or Python (pandas, matplotlib)  
