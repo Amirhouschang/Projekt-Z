@@ -178,7 +178,7 @@ Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche 
 
 ---
 
-### ⚙️ Methoden & Tools
+### Methoden & Tools
 
 **Microsoft Excel**  
 Bewusst gewählt für visuelle Präzision, klare Struktur und vollständige Kontrolle ohne externe Vorlagen.  
@@ -205,7 +205,7 @@ Unterstützt durch:
 
 ---
 
-### 🔭 Geplante Erweiterungen
+### Geplante Erweiterungen
 
 - Monatliche Zeitreihenanalyse (Kosten, Wert, Allokation)  
 - Technische Umsetzung mit Power BI oder Python (pandas, matplotlib)  
@@ -214,7 +214,7 @@ Unterstützt durch:
 
 ---
 
-### 🎯 Zielsetzung
+### Zielsetzung
 
 Dieses Projekt erhebt keinen Anspruch auf Vollständigkeit oder Analyse-Tiefe.  
 Es ist ein methodisch strukturierter, ehrlicher Einstieg in Finanzdaten – mit echten Entscheidungen, echtem Risiko und klarem Lernziel.  
