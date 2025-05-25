@@ -36,6 +36,8 @@ aber nur mit Beleg. Wie in einer Firma wurde für jeden Einkauf, selbst für ein
 Auch heute habe ich noch keinen vollen Einfluss auf alle Bereiche meiner finanziellen Realität,  
 aber ich beginne, mir diesen Raum Stück für Stück zurückzuholen.
 
+Dieses Projekt ist auf zwei Jahre angelegt. Mein Ziel ist es, bis Mai 2027 genug Rücklagen aufzubauen, um grundlegende Voraussetzungen für ein eigenständiges Leben zu schaffen. Die Investitionen dienen nicht der Spekulation, sondern einem klaren, strukturierten Weg in die finanzielle Selbstständigkeit – nach einer langen Zeit ohne persönlichen Besitz und mit begrenztem Entscheidungsspielraum. Dieses Projekt ist Ausdruck meiner Verantwortung für mich selbst und meines Wunsches, frei entscheiden zu können, wie ich leben will.
+
 ---
 
 ## Was enthält dieses Projekt?
