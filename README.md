@@ -119,6 +119,8 @@ Wenn du etwas Ähnliches planst – lass dich ermutigen.
 
 **Dieses Projekt ist nicht perfekt. Aber es ist echt.**
 
+
+
 ## Technischer Projektüberblick – Stand: 25. Mai 2025
 
 Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche und strukturierte Übersicht aller verwendeten Datenquellen, Methoden, Tools und geplanten Schritte.
@@ -220,5 +222,5 @@ Es zeigt, wie strukturierte Datenerhebung in Excel und GitHub dokumentiert, weit
 
 ---
 
-**Autor:** Amirhoushang Rahmannejad  
+**Autor:** A.R.
 **Projektzeitraum:** Start Mai 2025 – Planung bis mindestens Mai 2027
