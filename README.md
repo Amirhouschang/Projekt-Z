@@ -19,7 +19,7 @@ Ich finanziere dieses Projekt mit Geld, das ich vor über zehn Jahren bei meiner
 
 ## Inhalte
 
-### 1. `01_Crypto_Art_Portfolio_2025.xlsx`  
+### 1. 1. [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
 Komplettes Krypto-Portfolio:
 - Coins: Bitcoin, Ethereum, Solana, Tezos
 - Plattformen, Staking, Rewards
@@ -32,7 +32,7 @@ Komplettes Krypto-Portfolio:
 `01_Crypto_Invested_vs_Value.png`  
 ![Crypto Cost vs Value](./01_Crypto_Invested_vs_Value.png)
 
-### 2. `01_Investment_Plan_2025_Rebalancing.xlsx`  
+### 2. 2. [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)
 Fixer ETF- und Aktien-Plan (ab Juni 2025):
 - ETFs: World, Robotics, Defense
 - ETC: physisches Gold
