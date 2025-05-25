@@ -30,9 +30,7 @@ So kann ich Charts, KPIs und Bewertungen viel besser verstehen und in der Praxis
 Ich finanziere dieses Projekt mit Geld, das ich vor über zehn Jahren, bei meiner Ankunft in Deutschland, von meiner Familie und engen Freundinnen und Freunden als Geschenk erhalten habe. Dieses Geld blieb all die Jahre unberührt, weil ich in einem System lebte, in dem persönlicher Besitz nicht vorgesehen war. Heute nutze ich es bewusst, für meinen Neuanfang, für meine Bildung und um meine Zukunft aktiv mitzugestalten.
 
 Ich habe mein erstes eigenes Bankkonto im Mai 2025 eröffnet.  
-Bis dahin hatte ich nie ein persönliches Konto, sondern nur ein Gemeinschaftskonto ohne Mitspracherecht.  
-Bezahlen durfte ich fast alles: Essen, Kleidung, Kunst, Café, Bar, Restaurant –  
-aber nur mit Beleg. Wie in einer Firma wurde für jeden Einkauf, selbst für eine Flasche Wasser, ein Beleg verlangt.  
+Bis dahin hatte ich nie ein persönliches Konto, sondern nur ein Gemeinschaftskonto ohne Mitspracherecht. Bezahlen durfte ich fast alles: Essen, Kleidung, Kunst, Café, Bar, Restaurant –aber nur mit Beleg. Wie in einer Firma wird für jeden Einkauf, selbst für eine Flasche Wasser, ein Beleg verlangt.  
 Auch heute habe ich noch keinen vollen Einfluss auf alle Bereiche meiner finanziellen Realität,  
 aber ich beginne, mir diesen Raum Stück für Stück zurückzuholen.
 
