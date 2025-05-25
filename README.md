@@ -27,13 +27,20 @@ Anstatt ein abstraktes Data-Analytics-Projekt über fremde Unternehmensdaten zu 
 
 So kann ich Charts, KPIs und Bewertungen viel besser verstehen und in der Praxis anwenden.
 
-Ich finanziere dieses Projekt mit Geld, das ich vor über zehn Jahren – bei meiner Ankunft in Deutschland – von meiner Familie und engen Freund:innen als Geschenk erhalten habe. Dieses Geld blieb all die Jahre unberührt, weil ich in einem System lebte, in dem persönlicher Besitz nicht vorgesehen war. Heute nutze ich es bewusst: für meinen Neuanfang, für meine Bildung – und um meine Zukunft aktiv mitzugestalten.
+Ich finanziere dieses Projekt mit Geld, das ich vor über zehn Jahren, bei meiner Ankunft in Deutschland, von meiner Familie und engen Freundinnen und Freunden als Geschenk erhalten habe. Dieses Geld blieb all die Jahre unberührt, weil ich in einem System lebte, in dem persönlicher Besitz nicht vorgesehen war. Heute nutze ich es bewusst, für meinen Neuanfang, für meine Bildung und um meine Zukunft aktiv mitzugestalten.
+
+Ich habe mein erstes eigenes Bankkonto im Mai 2025 eröffnet.  
+Bis dahin hatte ich nie ein persönliches Konto, sondern nur ein Gemeinschaftskonto ohne Mitspracherecht.  
+Bezahlen durfte ich fast alles: Essen, Kleidung, Kunst, Café, Bar, Restaurant –  
+aber nur mit Beleg. Wie in einer Firma wurde für jeden Einkauf, selbst für eine Flasche Wasser, ein Beleg verlangt.  
+Auch heute habe ich noch keinen vollen Einfluss auf alle Bereiche meiner finanziellen Realität,  
+aber ich beginne, mir diesen Raum Stück für Stück zurückzuholen.
 
 ---
 
 ## Was enthält dieses Projekt?
 
-### 1. 01_Crypto_Art_Portfolio_2025.xlsx
+### 1. [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
 
 Komplettes Krypto-Portfolio:
 - Langfristige Coins: Bitcoin, Ethereum, Solana, Tezos
@@ -47,7 +54,7 @@ Komplettes Krypto-Portfolio:
 
 ---
 
-### 2. 01_Investment_Plan_2025_Rebalancing.xlsx
+### 2. [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)
 
 Fixer ETF/ETC/Aktien-Plan mit Rebalancing ab Juni 2025:
 - ETFs (z. B. World, Robotics, Defense)
@@ -78,6 +85,11 @@ Fixer ETF/ETC/Aktien-Plan mit Rebalancing ab Juni 2025:
 
 Ich bin 37 Jahre alt, habe Geschichte und Kulturwissenschaften studiert und lebe in Berlin.
 Ich bin derzeit noch Mitglied eines katholischen Ordens – mit stabiler Absicherung, aber ohne finanzielle Eigenständigkeit.
+Ich bin hochsensibel. Das betrifft meine Wahrnehmung, meine emotionale Verarbeitung, aber auch meinen Umgang mit Informationen, Entscheidungen und Verantwortung.  
+Diese Eigenschaft hat großen Einfluss auf mein Lernen, meine Selbststruktur und mein Verhältnis zu Geld.  
+Gleichzeitig erlebe ich eine besondere Freude an Daten, Fakten und klaren Beweisen – gerade weil sie mir Halt und Orientierung geben.  
+Ich beobachte Daten mit großer Aufmerksamkeit, oft intensiv, manchmal zu intensiv.  
+Aber genau darin liegt für mich auch ein Weg zu Klarheit, innerer Ruhe und Selbstverantwortung.
 Persönliche Themen wie Identität und Selbstbestimmung haben für mich eine große Rolle gespielt. Dieses Projekt ist für mich auch ein Schritt in Richtung Selbstverantwortung und Freiheit – nicht nur finanziell, sondern auch menschlich.
 
 ---
@@ -117,7 +129,7 @@ Ziel ist nicht das perfekte Portfolio, sondern ein Datenraum zum Verstehen.
 ## Methoden & Tools
 
 - Microsoft Excel – Formeln, Kategorien, automatische Zusammenfassungen
-- GitHub – als Plattform zur Dokumentation
+- GitHub als Plattform zur Dokumentation
 - Staking-Übersicht, Wallets, IDs, Preisverfolgung
 - Podcasts, Blogs, Daten-Coaching (z. B. mit ChatGPT)
 
