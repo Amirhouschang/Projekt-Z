@@ -111,15 +111,26 @@ Ich habe gelernt:
 
 ## Und jetzt?
 
-Ich bin noch ganz am Anfang. Aber ich bin gestartet.  
-Und das ist, was zählt.
+Ich bin am Anfang dieses Lernwegs.
+Mit echten Daten, klarer Struktur und dem Ziel, fundierte analytische Fähigkeiten zu entwickeln.
 
-Wenn du Feedback, Fragen oder Anregungen hast – gern.  
-Wenn du etwas Ähnliches planst – lass dich ermutigen.
+Das Projekt ist nicht perfekt, aber konsequent aufgebaut.
+Es spiegelt sowohl meine fachliche Entwicklung als auch meinen eigenständigen Einstieg in die Datenanalyse.
+
+Bei Fragen oder Interesse an ähnlichen Projekten freue ich mich über Austausch.
 
 **Dieses Projekt ist nicht perfekt. Aber es ist echt.**
 
+## Ein persönlicher Hinweis
 
+Ich dachte lange, dass Persönliches oder Privates keinen Platz in einem Projekt wie diesem hat.  
+Doch in den vergangenen Monaten habe ich meine Meinung geändert.
+
+In einer Zeit, in der queere Menschen zunehmend Zielscheibe von Hass, Propaganda oder politischen Angriffen werden, sogar durch große Firmen oder staatliche Maßnahmen, ist Sichtbarkeit für mich eine Form von Verantwortung.  
+Ich bin kein Aktivist und bezeichne mich nicht als radikal. Ich sehe mich als liberal denkenden Menschen, der in Frieden leben, lernen und arbeiten möchte.  
+Gerade deshalb finde ich: Wenn meine Identität, meine Sensibilität oder meine Vergangenheit ständig öffentlich verhandelt werden, dann gehören sie auch in meine eigene Darstellung – bewusst, ruhig und auf meine Weise.
+
+Dieses Projekt ist nicht nur ein Datenprojekt. Es ist auch ein Schritt zurück ins Leben.
 
 ## Technischer Projektüberblick – Stand: 25. Mai 2025
 Letzte Aktualisierung: 2. Juni 2025
