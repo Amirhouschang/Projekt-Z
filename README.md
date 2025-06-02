@@ -122,6 +122,7 @@ Wenn du etwas Ähnliches planst – lass dich ermutigen.
 
 
 ## Technischer Projektüberblick – Stand: 25. Mai 2025
+Letzte Aktualisierung: 2. Juni 2025
 
 Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche und strukturierte Übersicht aller verwendeten Datenquellen, Methoden, Tools und geplanten Schritte.
 
