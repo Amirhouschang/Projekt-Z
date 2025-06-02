@@ -198,7 +198,7 @@ Plattform zur Versionierung und zur strukturierten Dokumentation des Fortschritt
 
 **Plattformen & Datenerhebung**  
 Alle Daten stammen aus realen Plattformen:
-- Scalable Capital (ETF-Sparpläne)
+- Scalable Capital (langfristige ETFs und Aktien)
 - Trade Republic (Mikroinvestitionen)
 - Bitvavo (Krypto mit Staking)
 - Wallets: Temple (XTZ), Phantom (SOL), Ledger (geplant)
