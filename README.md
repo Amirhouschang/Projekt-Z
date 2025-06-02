@@ -125,8 +125,6 @@ Wenn du etwas Ähnliches planst – lass dich ermutigen.
 
 Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche und strukturierte Übersicht aller verwendeten Datenquellen, Methoden, Tools und geplanten Schritte.
 
----
-
 **Hinweis:**  
 Die Excel-Dateien werden monatlich veröffentlicht und befinden sich am Ende des README – nach der Zielsetzung.  
 Alle Daten, Diagramme und Excel-Dateien werden jeweils zu Beginn eines Monats aktualisiert.
