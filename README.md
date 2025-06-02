@@ -127,6 +127,12 @@ Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche 
 
 ---
 
+**Hinweis:**  
+Die Excel-Dateien werden monatlich veröffentlicht und befinden sich am Ende des README – nach der Zielsetzung.  
+Alle Daten, Diagramme und Excel-Dateien werden jeweils zu Beginn eines Monats aktualisiert.
+
+---
+
 ### Was enthält dieses Projekt?
 
 #### 1. [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
