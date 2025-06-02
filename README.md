@@ -196,12 +196,20 @@ Verwendet wurden:
 **GitHub**  
 Plattform zur Versionierung und zur strukturierten Dokumentation des Fortschritts.
 
-**Manuelle Datenerhebung**  
+**Plattformen & Datenerhebung**  
 Alle Daten stammen aus realen Plattformen:
 - Scalable Capital (ETF-Sparpläne)
-- Trade Republic (Aktienkäufe)
+- Trade Republic (Mikroinvestitionen)
 - Bitvavo (Krypto mit Staking)
 - Wallets: Temple (XTZ), Phantom (SOL), Ledger (geplant)
+- Coinpreise: öffentlich abrufbar (z. B. Bitvavo, CoinMarketCap)
+
+Ich lerne aktuell Python (Stand: Juli 2025).  
+Einige Elemente wie aktuelle Coinpreise, Uhrzeit und Datum werden bereits automatisiert erhoben.  
+Alle weiteren Daten werden derzeit noch manuell dokumentiert und strukturiert.
+
+Hinweis:
+Bis Juli 2025 laufende Anpassungen der Werte und Allokationen.
 
 **Reflexion & Begleitung**  
 Unterstützt durch:
