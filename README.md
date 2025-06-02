@@ -237,8 +237,8 @@ In diesem Abschnitt werden alle monatlich veröffentlichten Excel-Dateien und zu
 Visualisierungen:
 - [ETF-Allocation-Diagramm](./01_ETF_Equity_Allocation_Current.png)
 -  [Crypto-Allocation-Diagramm](./01_Crypto_Allocation_Percentage.png)
--
+
 ---
 
 - **Autor:** A.R.
-**Projektzeitraum:** Start Mai 2025 – Planung bis mindestens Mai 2027
+- **Projektzeitraum:** Start Mai 2025 – Planung bis mindestens Mai 2027
