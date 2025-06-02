@@ -76,18 +76,17 @@ Used for documentation, versioning, and public tracking.
 - Objkt.com (NFTs and art purchases)
 
 ---
+---
 
-### Learning Journey & Personal Reflection
+### Personal Note
 
-This is not a professional analytics project, but a real and structured personal journey —  
-with real money, real risks, and real learning.
+This is not only a technical project. It also reflects my path of building a self-determined and sustainable life — financially, professionally, and personally.
 
-I used to believe that personal and private experiences don’t belong in a project description.  
-But over the past year, I changed my mind.
+I used to believe that private matters had no place in a professional setting. But I changed my mind. In times when gender-neutral language is banned in some German states, when radical politicians attack queer communities, and when major tech companies support those ideologies, I believe that transparency is important.
 
-In a time when queer people are being targeted more openly — in politics, media, and even by major tech platforms — my hypersensitivity, my sexuality, and my past in religious structures *are* part of my reality. I don’t identify as an activist or far-left — I’m a liberal person who just wants to learn, work, and live in peace. And yet, I’ve come to realize that hiding these aspects is no longer an option. Not when politicians openly propagate hate, when gender-neutral speech is banned in places like Bavaria, or when even companies follow that narrative.
+I am not an activist, and I don’t identify as “left-wing” — but I do consider myself a liberal person. And as such, I feel responsible not to stay silent. My hypersensitivity, my queerness, and my past are part of who I am — and they belong here, too.
 
-That’s why this project reflects both my technical and personal development. It’s about understanding the world through data — and surviving it with awareness.
+This project is one small attempt to make data personal — not to prove anything, but to stay visible.
 
 ---
 
