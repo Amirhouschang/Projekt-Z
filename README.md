@@ -160,7 +160,7 @@ Alle Daten, Diagramme und Excel-Dateien werden jeweils zu Beginn eines Monats ak
 - ETFs (World, Defense & Technologieaktien)  
 - Physisches Gold ETC  
 - Einzelaktien: ASML, Rheinmetall  
-- Plattformen: Scalable Capital, Trade Republic
+- Plattformen: Scalable Capital
 
 **Investmenttabelle (Auszug):**
 
