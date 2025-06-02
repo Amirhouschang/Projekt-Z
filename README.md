@@ -168,11 +168,11 @@ Alle Daten, Diagramme und Excel-Dateien werden jeweils zu Beginn eines Monats ak
 
 **Visualisierungen:**
 
-![Aktuelle Asset Allocation](./01_ETF_Equity_Allocation_Current.png)  
-*Allokation nach Asset in Prozent – horizontaler Vergleich*
-
 ![Rebalancing Plan Juni 2025](./01_Fixed_Investment_Plan_June2025.png)  
 *Geplante Verteilung ab Juni 2025 als Kreisdiagramm*
+
+![Aktuelle Asset Allocation](./01_ETF_Equity_Allocation_Current.png)  
+*Allokation nach Asset in Prozent – horizontaler Vergleich*
 
 ![Investiert vs. Kosten – ETFs](./01_ETF_Invested_vs_TotalCost.png)  
 *Gegenüberstellung geplanter vs. realer Einzahlungen*
