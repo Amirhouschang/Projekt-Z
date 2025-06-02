@@ -157,7 +157,7 @@ Alle Daten, Diagramme und Excel-Dateien werden jeweils zu Beginn eines Monats ak
 
 **Inhalte:**
 - Fixer ETF/ETC/Aktien-Plan mit Start im Juni 2025  
-- ETFs (World, Defense & KI)  
+- ETFs (World, Defense & Technologieaktien)  
 - Physisches Gold ETC  
 - Einzelaktien: ASML, Rheinmetall  
 - Plattformen: Scalable Capital, Trade Republic
