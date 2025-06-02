@@ -1,4 +1,5 @@
 ## Technical Project Overview – As of May 25, 2025
+*Last updated: June 2, 2025*
 
 This section provides a structured summary of the project's content, data, and visualizations. It is part of a personal, real-life learning journey that combines data analysis, financial planning, and identity reflection.
 
@@ -39,11 +40,11 @@ This section provides a structured summary of the project's content, data, and v
 ![Investment Table](./01_Investment_Table.png)  
 *Extract from the structured investment plan*
 
-![Asset Allocation – ETFs](./01_ETF_Equity_Allocation_Current.png)  
-*Current ETF allocation by theme*
-
 ![Fixed Plan Start June](./01_Fixed_Investment_Plan_June2025.png)  
 *Planned allocation starting June 2025*
+
+![Asset Allocation – ETFs](./01_ETF_Equity_Allocation_Current.png)  
+*Current ETF allocation by theme*
 
 ![Invested vs. Cost](./01_ETF_Invested_vs_TotalCost.png)  
 *Invested amount compared to target cost per asset*
