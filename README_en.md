@@ -78,7 +78,7 @@ Used for documentation, versioning, and public tracking.
 
 ---
 
-### Note for technical readers and data professionals
+### For technical readers and data professionals
 
 This project intentionally includes narrative elements that document its background and development.  
 For readers primarily interested in the technical and data-focused structure, the second part of this document provides a factual overview of the data sources, tools, methods, and planned analytical steps.
