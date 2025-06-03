@@ -1,5 +1,5 @@
 ## Technical Project Overview – As of May 25, 2025  
-*Last updated: June 2, 2025*
+*Last updated: June 3, 2025*
 
 This section provides a structured summary of the project's content, data, and visualizations.  
 It is part of a personal, real-life learning journey that combines data analysis, financial planning, and identity reflection.
