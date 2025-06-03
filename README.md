@@ -41,6 +41,10 @@ Ich finanziere dieses Projekt mit Geld, das ich vor über zehn Jahren – bei me
 Dieses Geld blieb all die Jahre unberührt, weil ich in einem System lebte, in dem persönlicher Besitz nicht vorgesehen war.  
 Heute nutze ich es bewusst – für meinen Neuanfang, für meine Bildung und um meine Zukunft aktiv mitzugestalten.
 
+Ich habe dieses Projekt begonnen, um Ordnung und Überblick über meine eigenen Daten zu gewinnen – ohne theoretischen Plan, sondern aus persönlichem Bedürfnis.  
+Erst später habe ich erkannt, dass mein Vorgehen vielen Phasen des Datenlebenszyklus entspricht: sammeln, speichern, analysieren, teilen und loslassen.  
+Dieses Projekt ist ein Lernweg – aus der Praxis, nicht aus dem Lehrbuch.
+
 Ich habe mein erstes eigenes Bankkonto im Mai 2025 eröffnet.  
 Bis dahin hatte ich nie ein persönliches Konto, sondern nur ein Gemeinschaftskonto ohne Mitspracherecht.  
 Bezahlen durfte ich fast alles: Essen, Kleidung, Kunst, Café, Bar, Restaurant –  
@@ -133,7 +137,7 @@ Gerade deshalb finde ich: Wenn meine Identität, meine Sensibilität oder meine 
 Dieses Projekt ist nicht nur ein Datenprojekt. Es ist auch ein Schritt zurück ins Leben.
 
 ## Technischer Projektüberblick – Stand: 25. Mai 2025
-Letzte Aktualisierung: 2. Juni 2025
+Letzte Aktualisierung: 3. Juni 2025
 
 Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche und strukturierte Übersicht aller verwendeten Datenquellen, Methoden, Tools und geplanten Schritte.
 
@@ -141,6 +145,19 @@ Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche 
 Die Excel-Dateien werden monatlich veröffentlicht und befinden sich am Ende des README – nach der Zielsetzung.  
 Alle Daten, Diagramme und Excel-Dateien werden jeweils zu Beginn eines Monats aktualisiert.
 
+---
+
+ ## Technischer Umgang mit Daten
+
+- **Daten-Erfassung:** Manuelle Eingabe von Investitionen, Preisen und Käufen in Excel  
+- **Daten-Speicherung:** Lokale Speicherung auf meinem MacBook + Cloud-Backup  
+- **Daten-Pflege:** Wöchentliche Preisaktualisierung, monatliche neue Einträge  
+- **Daten-Analyse:** Berechnungen, Visualisierungen (z. B. Portfolio-Anteile, Gewinnentwicklung)  
+- **Teilweise Verarbeitung mit Python:** Erste Tests zur Automatisierung und späteren Analyse (z. B. Diagramme, Datenbereinigung)  
+- **Daten-Veröffentlichung:** GitHub-Upload ausgewählter Dateien und Diagramme  
+- **Daten-Archivierung:** Versionssicherung durch Dateikopien (Monatsordner)  
+- **Daten-Löschung:** Entfernen veralteter oder fehlerhafter Inhalte, bewusst selektiv
+  
 ---
 
 ### Was enthält dieses Projekt?
