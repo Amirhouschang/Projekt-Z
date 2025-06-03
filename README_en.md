@@ -1,7 +1,8 @@
-## Technical Project Overview – As of May 25, 2025
+## Technical Project Overview – As of May 25, 2025  
 *Last updated: June 2, 2025*
 
-This section provides a structured summary of the project's content, data, and visualizations. It is part of a personal, real-life learning journey that combines data analysis, financial planning, and identity reflection.
+This section provides a structured summary of the project's content, data, and visualizations.  
+It is part of a personal, real-life learning journey that combines data analysis, financial planning, and identity reflection.
 
 ---
 
@@ -76,17 +77,13 @@ Used for documentation, versioning, and public tracking.
 - Objkt.com (NFTs and art purchases)
 
 ---
----
 
-### Personal Note
+### Note for technical readers and data professionals
 
-This is not only a technical project. It also reflects my path of building a self-determined and sustainable life — financially, professionally, and personally.
+This project intentionally includes narrative elements that document its background and development.  
+For readers primarily interested in the technical and data-focused structure, the second part of this document provides a factual overview of the data sources, tools, methods, and planned analytical steps.
 
-I used to believe that private matters had no place in a professional setting. But I changed my mind. In times when gender-neutral language is banned in some German states, when radical politicians attack queer communities, and when major tech companies support those ideologies, I believe that transparency is important.
-
-I am not an activist, and I don’t identify as “left-wing” — but I do consider myself a liberal person. And as such, I feel responsible not to stay silent. My hypersensitivity, my queerness, and my past are part of who I am — and they belong here, too.
-
-This project is one small attempt to make data personal — not to prove anything, but to stay visible.
+Some data and content have been published selectively. Sensitive or private information remains unpublished for reasons of data protection and intentional boundary-setting.
 
 ---
 
@@ -96,6 +93,18 @@ This project is one small attempt to make data personal — not to prove anythin
 - Basic Python scripts (data extraction, aggregation)
 - Power BI dashboards (for selected KPIs)
 - GitHub publishing (project updates, README versioning)
+
+---
+
+###  Final Note
+
+This project began as a simple tool to manage my personal finances. Over time, it became a structured learning path into data analytics, based on real data and real-life decisions.
+
+Although not planned from the start, the structure of this project now reflects many phases of the data lifecycle: data collection, storage, maintenance, analysis, visualization, publication, and selective deletion.
+
+While the repository focuses on technical content, some background aspects are deeply personal: questions of financial independence, identity, and resilience. These are not explicitly detailed here, but they have shaped the way this project was built and maintained.
+
+For those interested in the broader context, the [German README](./README.md) offers more insight into the origins and motivation behind the project.
 
 ---
 
