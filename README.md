@@ -6,9 +6,10 @@
 
 ### Hinweis für Fachleute und Dateninteressierte
 
-Dieses Projekt enthält bewusst persönliche Erzählanteile, die den Hintergrund und die Entstehung dokumentieren.  
-Wenn Sie sich vorrangig für die technische, datenbezogene Struktur interessieren, finden Sie im zweiten Teil dieses Dokuments eine sachliche Zusammenfassung mit Beschreibung der eingesetzten Methoden, der verwendeten Werkzeuge und der geplanten analytischen Weiterentwicklung.  
-Einige Diagramme und Excel-Dateien wurden im professionellen Bereich zugänglich gemacht, um den Projektverlauf sichtbar zu machen. Sensible Inhalte verbleiben im geschützten Bereich.
+Dieses Projekt enthält bewusst erzählerische Anteile, die den Hintergrund und die Entstehung dokumentieren.
+Für Leserinnen und Leser, die sich vorrangig für die technische, datenbezogene Struktur interessieren, bietet der zweite Teil dieses Dokuments eine sachliche Übersicht über Datenquellen, Methoden, Werkzeuge und geplante analytische Schritte.
+
+Einige Daten und Inhalte wurden selektiv veröffentlicht, andere – insbesondere sensible oder private Informationen – bleiben aus Gründen des Datenschutzes und der Abgrenzung im nicht-öffentlichen Bereich.
 
 ---
 
