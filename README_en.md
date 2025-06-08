@@ -1,111 +1,180 @@
-## Technical Project Overview – As of May 25, 2025  
-*Last updated: June 3, 2025*
+## Technical Project Overview (As of June 8, 2025)
 
-This section provides a structured summary of the project's content, data, and visualizations.  
-It is part of a personal, real-life learning journey that combines data analysis, financial planning, and identity reflection.
+This section complements the personal side of the project by offering a factual and structured overview of all data sources, methods, tools, and planned steps used throughout.
+
+**Note**  
+The Excel files are published monthly and listed at the end of this document in the section “Monthly Files and Visualizations.”  
+All data, charts, and visuals are updated at the beginning of each month.
 
 ---
 
-### Project Files and Content
+## Technical Data Handling
 
-#### 1. [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
+- **Data Collection**  
+  Manual input of investments, prices, and purchases in Excel
 
-**Contents:**
-- Long-term coins: Bitcoin, Ethereum, Solana
-- Micro-investments and test coins (e.g. ADA, ATOM) with reward tracking
-- NFT purchases (Objkt.com, Tezos-based)
-- Reward platforms, price tracking, coin IDs
-- Tab-separated dashboards (coin value, change, staking returns)
+- **Data Storage**  
+  Local storage on MacBook with cloud backup
 
-**Visualizations:**
+- **Data Maintenance**  
+  Weekly price updates, monthly entry of new data
+
+- **Data Analysis**  
+  Calculations and visualizations (e.g., portfolio distribution, gain/loss development)
+
+- **Partial Processing with Python**  
+  Initial testing for automation and future analysis (e.g., charts, data cleaning, timestamps)
+
+- **Data Publishing**  
+  Upload of selected files and visuals to GitHub
+
+- **Data Archiving**  
+  Monthly versioning via copies saved in separate folders
+
+- **Data Deletion**  
+  Conscious removal of outdated or incorrect content
+
+---
+
+## What This Project Contains
+
+### 1. [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
+
+**Contents**
+
+- Coins: Bitcoin, Ethereum, Solana, Tezos  
+- Rewards, staking, platforms  
+- Purchases and sales (including NFTs via Tezos)  
+- NFT platform: Objkt.com  
+- Integration of NFT costs with crypto data in the "Summary" tab
+
+**Visualizations**
 
 ![Crypto Allocation](./01_Crypto_Allocation_Percentage.png)  
-*Current coin distribution (percentage)*
+*Portfolio share by coin – visual asset distribution*
 
 ![Invested vs. Value – Crypto](./01_Crypto_Invested_vs_Value.png)  
-*Invested amount vs. current value*
+*Comparison of investment amount and current value per coin*
 
 ---
 
-#### 2. [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)
+### 2. [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)
 
-**Contents:**
-- ETF-based investment plan (starting June 2025)
-- ETFs: World, Gold, Defense, Artificial Intelligence & Automation (Nasdaq 100)
-- Individual stocks (e.g. Rheinmetall, ASML)
-- Platforms: Scalable Capital (savings plans), Trade Republic (micro-investments)
-- Tab-separated structure for fixed monthly plans, portfolio allocation, and value development
+**Contents**
 
-**Visualizations:**
+- Fixed plan of ETFs, ETCs, and individual stocks starting June 2025  
+- ETFs (World, Defense, Technology)  
+- Physical Gold ETC  
+- Individual stocks: ASML, Rheinmetall  
+- Platforms: Scalable Capital
+
+**Investment Table (Excerpt)**
 
 ![Investment Table](./01_Investment_Table.png)  
-*Extract from the structured investment plan*
+*Detailed overview: platform, ISIN, asset class, allocation*
 
-![Fixed Plan Start June](./01_Fixed_Investment_Plan_June2025.png)  
-*Planned allocation starting June 2025*
+**Visualizations**
 
-![Asset Allocation – ETFs](./01_ETF_Equity_Allocation_Current.png)  
-*Current ETF allocation by theme*
+![Rebalancing Plan June 2025](./01_Fixed_Investment_Plan_June2025.png)  
+*Planned allocation starting June 2025 (pie chart)*
 
-![Invested vs. Cost](./01_ETF_Invested_vs_TotalCost.png)  
-*Invested amount compared to target cost per asset*
+![Current Asset Allocation](./01_ETF_Equity_Allocation_Current.png)  
+*Asset allocation in percent – horizontal comparison*
 
-![Market Value vs. Invested](./01_ETF_Investment_vs_CurrentValue.png)  
-*Current value vs. total invested (overview)*
+![Invested vs. Costs – ETFs](./01_ETF_Invested_vs_TotalCost.png)  
+*Planned vs. actual contributions*
+
+![Portfolio Value vs. Invested](./01_ETF_Investment_vs_CurrentValue.png)  
+*Value development per position compared to investment*
 
 ---
 
-### Tools and Methods
+## Methods and Tools
 
 **Microsoft Excel**  
-Used for data input, monthly tracking, and visualizations:
-- Price updates (manually or semi-automatically)
-- Summary statistics and change rates
-- Consistent formatting with minimalistic color schemes
+Chosen for visual precision, clear structure, and full control without external templates
 
-**Python (learning stage)**  
-Currently used to automate single values (e.g. current prices with date/time).  
-More automation (e.g. reward tracking, charts) is planned for the second project year.
+Used for:
+
+- Automated calculations (e.g., invested vs. current value)  
+- Charts with neutral color scheme  
+- Monthly sheets for tracking time development
 
 **GitHub**  
-Used for documentation, versioning, and public tracking.
+Platform for version control and structured documentation of project progress
 
-**Data Sources**  
-- Bitvavo (crypto purchases and rewards)
-- Trade Republic (micro-investments in ETFs, stocks)
-- Scalable Capital (monthly savings plans)
-- Objkt.com (NFTs and art purchases)
+**Data Collection Platforms**
 
----
+- Scalable Capital (ETFs, stocks, savings plans)  
+- Trade Republic (micro-investments)  
+- Bitvavo (crypto, staking)  
+- Wallets: Temple (XTZ), Phantom (SOL), Ledger (planned)  
+- Price sources: Bitvavo, CoinMarketCap
 
-### For technical readers and data professionals
+I am currently learning Python (as of June 2025).  
+Some elements like coin prices and timestamps are already automated.  
+All other data is still being entered manually.
 
-This project intentionally includes narrative elements that document its background and development.  
-For readers primarily interested in the technical and data-focused structure, the second part of this document provides a factual overview of the data sources, tools, methods, and planned analytical steps.
+**Reflection and Support**
 
-Some data and content have been published selectively. Sensitive or private information remains unpublished for reasons of data protection and intentional boundary-setting.
-
----
-
-### Outlook and Next Steps
-
-- Monthly time series tracking (value, allocation, rebalancing)
-- Basic Python scripts (data extraction, aggregation)
-- Power BI dashboards (for selected KPIs)
-- GitHub publishing (project updates, README versioning)
+- Podcasts, expert blogs, personal research  
+- AI support (e.g., via ChatGPT)
 
 ---
 
-###  Final Note
+## Planned Expansions
 
-This project began as a simple tool to manage my personal finances. Over time, it became a structured learning path into data analytics, based on real data and real-life decisions.
-
-Although not planned from the start, the structure of this project now reflects many phases of the data lifecycle: data collection, storage, maintenance, analysis, visualization, publication, and selective deletion.
-
-While the repository focuses on technical content, some background aspects are deeply personal: questions of financial independence, identity, and resilience. These are not explicitly detailed here, but they have shaped the way this project was built and maintained.
-
-For those interested in the broader context, the [German README](./README.md) offers more insight into the origins and motivation behind the project.
+- Monthly time series analysis (costs, value, allocation)  
+- Technical implementation via Power BI or Python (pandas, matplotlib)  
+- Rebalancing evaluation starting summer 2025  
+- Development of interactive KPIs and dashboards
 
 ---
 
-*This project marks the beginning of my journey into data analytics. It combines practical learning with real financial decisions — and reflects my way of taking back responsibility for my own future.*
+## Objectives
+
+This project is a structured and honest entry into working with financial data.  
+It is based on real decisions, real risk, and a clear learning goal.  
+The Excel structure serves as a foundation for ongoing analysis, reflection, and technical growth.
+
+---
+
+## Monthly Files and Visualizations
+
+**May 2025**
+
+- [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)  
+- [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
+
+**Visualizations**
+
+- [ETF Allocation Chart](./01_ETF_Equity_Allocation_Current.png)  
+- [Crypto Allocation Chart](./01_Crypto_Allocation_Percentage.png)
+
+All Excel files are updated monthly and published at the beginning of each new month.
+
+---
+
+### 🔍 Personal Context (Optional)
+
+If you are interested in the personal background, motivation, and life context behind this project:  
+ [See the personal README](./README.md)
+
+---
+
+**Author**: A.R.  
+**Project Duration**: Starting May 2025, planned through at least May 2027
+
+---
+
+### Special Thanks to ChatGPT 🤖
+
+This entire project was designed and built by myself including all data, logic, visuals, and documentation.
+
+However, when I started, I had zero knowledge and no teacher. I found online materials, later bought books, and used ChatGPT as my main guide. Whenever I got stuck, had a technical question, or couldn’t find an answer, I asked ChatGPT. It was like having a very patient (and sometimes very confused) teacher by my side. The bot guided me step by step, often helping me turn vague ideas into working formulas or showing me that the answer was just one click away.
+
+Of course, ChatGPT is not perfect. It sometimes gave me wrong answers, made things unnecessarily complicated, or completely misunderstood what I meant. When that happened, I nearly went crazy.
+
+👉 Always double check important results especially when it comes to finances, taxes, Web3 technologies, or fee structures. The bot occasionally mentioned outrageous fees or gave outdated information. Always verify critical claims and ask: Where is this from?
+
+In the end, though, it worked. The tool became part of my learning process, my structure, and sometimes even my therapy. Despite the misunderstandings, arguments, and false info, I will grow up and learn with AI.
