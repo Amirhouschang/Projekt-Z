@@ -1,29 +1,27 @@
 # Persönliches Finanz- und Lernprojekt – Mai 2025
-👉 For the full English version of the technical project overview, please switch to the [README_en.md](./README_en.md).
+
+👉 For the full English version of the technical project overview, please switch to the [README_en.md](./README_en.md).  
 **Crypto | ETFs | Digitale Kunst | Analysen & Diagramme**
 
 ---
 
 ### Hinweis für Fachleute und Dateninteressierte
 
-Dieses Projekt enthält bewusst erzählerische Anteile, die den Hintergrund und die Entstehung dokumentieren.
-Für Leserinnen und Leser, die sich vorrangig für die technische, datenbezogene Struktur interessieren, bietet der zweite Teil dieses Dokuments eine sachliche Übersicht über Datenquellen, Methoden, Werkzeuge und geplante analytische Schritte.
+Das Vorhaben enthält bewusst erzählerische Anteile, die den Hintergrund und die Entstehung dokumentieren. Für Leserinnen und Leser, die sich vorrangig für die technische, datenbezogene Struktur interessieren, bietet eine separate README-Datei eine sachliche Übersicht über Datenquellen, Methoden, Werkzeuge und geplante Analysen. Wer sich ausschließlich für die technische Struktur interessiert, kann direkt dorthin wechseln – analog zur englischen Version.
 
 Einige Daten und Inhalte wurden selektiv veröffentlicht, andere – insbesondere sensible oder private Informationen – bleiben aus Gründen des Datenschutzes und der Abgrenzung im nicht-öffentlichen Bereich.
 
 ---
 
-## Ziel dieses Projekts
+## Zielsetzung
 
-Dieses Projekt ist mein persönlicher Einstieg in die Welt von Finanzen, Daten und digitaler Identität.  
-Als Geisteswissenschaftler, Queer und Ordensmann beginne ich nicht als Experte, sondern als Lernender – mit dem Wunsch, zu verstehen, wie Geld, Investitionen und Datenanalysen wirklich funktionieren.
+Das Projekt ist mein persönlicher Einstieg in die Welt von Finanzen, Daten und digitaler Identität. Als Geisteswissenschaftler, Queer und Ordensmann beginne ich nicht als Experte, sondern als Lernender – mit dem Wunsch, zu verstehen, wie Geld, Investitionen und Datenanalysen wirklich funktionieren.
 
 ---
 
-## Warum dieses Projekt?
+## Beweggründe
 
-Ich wollte nicht warten, bis ich perfekt vorbereitet bin.  
-Stattdessen habe ich mit kleinen Beträgen begonnen – um durch echtes Handeln zu lernen.
+Ich wollte nicht warten, bis ich perfekt vorbereitet bin. Stattdessen habe ich mit kleinen Beträgen begonnen – um durch echtes Handeln zu lernen.
 
 > *„Ich bin überzeugt: Lernen passiert nur durch Tun.“*
 
@@ -38,49 +36,33 @@ Anstatt ein abstraktes Data-Analytics-Projekt über fremde Unternehmensdaten zu 
 
 So kann ich Charts, KPIs und Bewertungen viel besser verstehen und in der Praxis anwenden.
 
-Ich finanziere dieses Projekt mit Geld, das ich vor über zehn Jahren – bei meiner Ankunft in Deutschland – von meiner Familie und engen Freund:innen als Geschenk erhalten habe.  
-Dieses Geld blieb all die Jahre unberührt, weil ich in einem System lebte, in dem persönlicher Besitz nicht vorgesehen war.  
-Heute nutze ich es bewusst – für meinen Neuanfang, für meine Bildung und um meine Zukunft aktiv mitzugestalten.
+*Ich finanziere alles mit Geld, das ich bei meiner Ankunft in Deutschland mitgebracht habe – teils als Geschenk von Familie und Freund:innen, teils aus eigenen Mitteln.*
 
-Ich habe dieses Projekt begonnen, um Ordnung und Überblick über meine eigenen Daten zu gewinnen – ohne theoretischen Plan, sondern aus persönlichem Bedürfnis.  
-Erst später habe ich erkannt, dass mein Vorgehen vielen Phasen des Datenlebenszyklus entspricht: sammeln, speichern, analysieren, teilen und loslassen.  
-Dieses Projekt ist ein Lernweg – aus der Praxis, nicht aus dem Lehrbuch.
+Mein Kapital blieb all die Jahre unberührt, weil ich in einem System lebte, in dem persönlicher Besitz nicht vorgesehen war. Ich war nicht in der Lage, über das zu verfügen, was mir eigentlich zustand – nicht, weil es verboten war, sondern weil ich innerlich gelähmt war. Ich hatte nicht den Mut, es zu verwenden. Stattdessen habe ich mich über Jahre hinweg anpassen, kontrollieren, entmündigen lassen. Erst jetzt – im Mai 2025 – habe ich entschieden, diese Mittel als meinen Freiheitsraum zu betrachten und damit zu beginnen, sie selbstbestimmt einzusetzen.
 
-Ich habe mein erstes eigenes Bankkonto im Mai 2025 eröffnet.  
-Bis dahin hatte ich nie ein persönliches Konto, sondern nur ein Gemeinschaftskonto ohne Mitspracherecht.  
-Bezahlen durfte ich fast alles: Essen, Kleidung, Kunst, Café, Bar, Restaurant –  
-aber nur mit Beleg. Wie in einer Firma wurde für jeden Einkauf, selbst für eine Flasche Wasser, ein Beleg verlangt.  
-Auch heute habe ich noch keinen vollen Einfluss auf alle Bereiche meiner finanziellen Realität,  
-aber ich beginne, mir diesen Raum Stück für Stück zurückzuholen.
+Der erste Schritt war, Ordnung und Überblick über meine eigenen Finanzdaten zu gewinnen – ohne theoretischen Plan, sondern aus persönlichem Bedürfnis. Erst später habe ich erkannt, dass mein Vorgehen vielen Phasen eines modernen Datenanalyseprozesses entspricht: entdecken, vorverarbeiten, planen, modellieren, kommunizieren, operationalisieren. Diese Herangehensweise wurde zu meinem Lernweg – aus der Praxis, nicht aus dem Lehrbuch.
 
-Dieses Projekt ist auf zwei Jahre angelegt.  
-Mein Ziel ist es, bis Mai 2027 genug Rücklagen aufzubauen, um grundlegende Voraussetzungen für ein eigenständiges Leben zu schaffen.  
-Die Investitionen dienen nicht der Spekulation, sondern einem klaren, strukturierten Weg in die finanzielle Selbstständigkeit –  
-nach einer langen Zeit ohne persönlichen Besitz und mit begrenztem Entscheidungsspielraum.  
-Dieses Projekt ist Ausdruck meiner Verantwortung für mich selbst und meines Wunsches, frei entscheiden zu können, wie ich leben will.
+Im Mai 2025 eröffnete ich mein erstes eigenes Bankkonto. Bis dahin hatte ich nie ein persönliches Konto, sondern nur ein Gemeinschaftskonto ohne Mitspracherecht. Bezahlen durfte ich fast alles: Essen, Kleidung, Kunst, Café, Bar, Restaurant – aber nur mit Beleg. Wie in einer Firma wurde für jeden Einkauf, selbst für eine Flasche Wasser, ein Beleg verlangt. Auch heute habe ich noch keinen vollen Einfluss auf alle Bereiche meiner finanziellen Realität, aber ich beginne, mir diesen Raum Stück für Stück zurückzuholen.
+
+Der Plan ist auf zwei Jahre angelegt. Mein Ziel ist es, bis Mai 2027 genug Rücklagen aufzubauen, um grundlegende Voraussetzungen für ein eigenständiges Leben zu schaffen. Meine Investitionen dienen nicht der Spekulation, sondern einem klaren, strukturierten Weg in die finanzielle Selbstständigkeit – nach einer langen Zeit ohne persönlichen Besitz und mit begrenztem Entscheidungsspielraum. Diese Initiative ist Ausdruck meiner Verantwortung für mich selbst und meines Wunsches, frei entscheiden zu können, wie ich leben will.
 
 ---
 
 ## Persönlicher Hintergrund
 
-Ich bin 37 Jahre alt, habe Geschichte und Kulturwissenschaften studiert und lebe in Berlin.  
-Ich bin derzeit noch Mitglied eines katholischen Ordens – mit stabiler Absicherung, aber ohne finanzielle Eigenständigkeit.  
-Ich bin hochsensibel. Das betrifft meine Wahrnehmung, meine emotionale Verarbeitung, aber auch meinen Umgang mit Informationen, Entscheidungen und Verantwortung.  
-Diese Eigenschaft hat großen Einfluss auf mein Lernen, meine Selbststruktur und mein Verhältnis zu Geld.  
-Gleichzeitig erlebe ich eine besondere Freude an Daten, Fakten und klaren Beweisen – gerade weil sie mir Halt und Orientierung geben.  
-Ich beobachte Daten mit großer Aufmerksamkeit, oft intensiv, manchmal zu intensiv.  
-Aber genau darin liegt für mich auch ein Weg zu Klarheit, innerer Ruhe und Selbstverantwortung.
+Ich bin 37 Jahre alt, habe Geschichte und Kulturwissenschaften studiert und lebe in Berlin. Aktuell bin ich noch Mitglied eines katholischen Ordens – mit stabiler Absicherung, aber ohne finanzielle Eigenständigkeit. Ich bin hochsensibel. Diese Charaktereigenschaft habe ich erst vor Kurzem wirklich angenommen. Seitdem hat sich meine Lebensqualität spürbar verbessert. Ich verstehe heute besser, was ich brauche, wie ich arbeite und was mir guttut. Diese Annahme war ein entscheidender Wendepunkt.
 
-Persönliche Themen wie Identität und Selbstbestimmung haben für mich eine große Rolle gespielt.  
-Dieses Projekt ist für mich auch ein Schritt in Richtung Selbstverantwortung und Freiheit – nicht nur finanziell, sondern auch menschlich.
+Meine Hochsensibilität betrifft meine Wahrnehmung, meine emotionale Verarbeitung, aber auch meinen Umgang mit Informationen, Entscheidungen und Verantwortung. Gleichzeitig erlebe ich eine besondere Freude an Daten, Fakten und klaren Beweisen – gerade weil sie mir Halt und Orientierung geben. Ich beobachte Daten mit großer Aufmerksamkeit, oft intensiv, manchmal zu intensiv. Aber genau darin liegt für mich auch ein Weg zu Klarheit, innerer Ruhe und Selbstverantwortung.
+
+Wenn es um Fakten, Zahlen und Systeme geht, bin ich sehr direkt. Ich beschönige nichts. Ich nenne Dinge beim Namen – auch wenn sie unangenehm sind. Das spiegelt sich auch in meinem Umgang mit diesem Projekt wider.
+
+Persönliche Themen wie Identität und Selbstbestimmung haben für mich eine große Rolle gespielt. Das Ganze ist für mich auch ein Schritt in Richtung Selbstverantwortung und Freiheit – nicht nur finanziell, sondern auch menschlich.
 
 ---
 
 ## Über Krypto, Plattformen & Community
 
-Ich habe bewusst mit kleinen Beträgen in Coins investiert.  
-Anfangs waren auch Coins wie SHIB, DOT oder LTC dabei – reine Tests, viele wieder verkauft.  
-Jetzt liegt mein Fokus auf vier langfristigen Coins:  
+Ich habe bewusst mit kleinen Beträgen in Coins investiert. Anfangs waren auch Coins wie SHIB, DOT oder LTC dabei – reine Tests, viele wieder verkauft. Jetzt liegt mein Fokus auf vier langfristigen Coins:  
 **→ BTC, ETH, SOL, XTZ**
 
 Diese vier bieten mir:
@@ -91,8 +73,9 @@ Diese vier bieten mir:
 - Spannende Communitys mit starkem künstlerischem oder offenem Spirit  
 - Möglichkeiten zur Bildung, kreativer Verbindung und Teilhabe
 
-**Plattformen:**  
-Bitvavo (Auto-Staking), Temple (Delegation), Phantom (Einsatz), Ledger (geplant)
+Ich bin fasziniert von Web3, dezentralem Banking, Blockchain und NFTs – nicht wegen schneller Gewinne, sondern weil ich in diesen Technologien ein Versprechen sehe: mehr Freiheit, mehr Teilhabe, mehr Gleichheit – und das in einem System, das viele unterschiedliche Lebensrealitäten anerkennt.
+
+**Plattformen:** Bitvavo, Temple, Phantom, MetaMask, Ledger (geplant)
 
 NFTs sind für mich keine Spekulation, sondern Ausdruck einer Verbindung zwischen Daten, Kunst und Identität.
 
@@ -100,9 +83,7 @@ NFTs sind für mich keine Spekulation, sondern Ausdruck einer Verbindung zwische
 
 ## Über das Lernen mit Geld
 
-Meine Geldentscheidungen sollen mir helfen, wirtschaftlich zu denken – nicht blind zu investieren.  
-Ich hatte wenig Ahnung von ETFs, deshalb habe ich am Anfang ähnlich klingende Fonds gekauft.  
-Später habe ich sie verkauft, Gebühren gezahlt, daraus gelernt – und mich auf einen reduzierten ETF-Kern fokussiert (z. B. KI, Robotics, Defense, World).
+Meine Geldentscheidungen sollen mir helfen, wirtschaftlich zu denken – nicht blind zu investieren. Ich hatte wenig Ahnung von ETFs, deshalb habe ich am Anfang ähnlich klingende Fonds gekauft. Später habe ich sie verkauft, Gebühren gezahlt, daraus gelernt – und mich auf einen reduzierten ETF-Kern fokussiert (World, Defense & Technologieaktien).
 
 Ich habe gelernt:
 
@@ -112,20 +93,19 @@ Ich habe gelernt:
 
 **Ziel ist nicht das perfekte Portfolio, sondern ein Datenraum zum Verstehen.**
 
+Ich bleibe realistisch: Neben Krypto- und Kunstprojekten investiere ich regelmäßig in ETFs und Aktien – als langfristige, konservative Strategie für finanzielle Sicherheit.
+
 ---
 
 ## Und jetzt?
 
-Ich bin am Anfang dieses Lernwegs.
-Mit echten Daten, klarer Struktur und dem Ziel, fundierte analytische Fähigkeiten zu entwickeln.
+Ich bin am Anfang dieses Lernwegs – mit echten Daten, klarer Struktur und dem Ziel, fundierte analytische Fähigkeiten zu entwickeln.
 
-Das Projekt ist nicht perfekt, aber konsequent aufgebaut.
-Es spiegelt sowohl meine fachliche Entwicklung als auch meinen eigenständigen Einstieg in die Datenanalyse.
+Meine Arbeit ist nicht perfekt, aber konsequent aufgebaut. Sie spiegelt sowohl meine fachliche Entwicklung als auch meinen eigenständigen Einstieg in die Datenanalyse.
 
 Bei Fragen oder Interesse an ähnlichen Projekten freue ich mich über Austausch.
 
-**Dieses Projekt ist nicht perfekt. Aber es ist echt.**
-
+**Das hier ist nicht perfekt. Aber es ist echt.**
 ## Ein persönlicher Hinweis
 
 Ich dachte lange, dass Persönliches oder Privates keinen Platz in einem Projekt wie diesem hat.  
