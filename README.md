@@ -77,9 +77,11 @@ Ich bin fasziniert von Web3, dezentralem Banking, Blockchain und NFTs – nicht 
 
 **Plattformen:** Bitvavo, Temple, Phantom, MetaMask, Ledger (geplant)
 
-NFTs sind für mich keine Spekulation, sondern Ausdruck einer Verbindung zwischen Daten, Kunst und Identität.
+Investitionsphilosophie
 
-Gleichzeitig bleibe ich realistisch: Neben Krypto- und Kunstprojekten investiere ich regelmäßig in ETFs und Aktien – als langfristige, konservative Strategie zur finanziellen Absicherung.
+NFTs sind für mich keine Spekulation, sondern Ausdruck einer Verbindung zwischen Daten, Kunst und Identität. Sie stehen in meinem Projekt gleichwertig neben klassischen Investments – als Teil einer ganzheitlichen Betrachtung von digitaler Identität, kreativer Ausdrucksform und technologischer Entwicklung.
+
+Gleichzeitig bleibe ich realistisch: Neben Krypto- und Kunstprojekten investiere ich regelmäßig in ETFs und Aktien – als langfristige, konservative Strategie zur finanziellen Sicherheit. Diese Zweiteilung meines Ansatzes spiegelt auch mein Ziel wider: Lernen, verstehen, analysieren – und gleichzeitig verantwortungsbewusst Vermögen aufbauen.
 
 ---
 
