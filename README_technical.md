@@ -158,7 +158,7 @@ Die Excel Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 ### 🔍 Hinweis für Interessierte an persönlichen Hintergründen
 
 Weitere Informationen zu Motivation, Lebenssituation, Erfahrungen und persönlichen Beweggründen befinden sich im separaten Bereich dieses Projekts:  
-👉 [Zur persönlichen README](./README.md)
+ [Zur persönlichen README](./README.md)
 
 ---
 **Autor**: A.R.  
