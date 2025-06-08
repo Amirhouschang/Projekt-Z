@@ -79,6 +79,8 @@ Ich bin fasziniert von Web3, dezentralem Banking, Blockchain und NFTs – nicht 
 
 NFTs sind für mich keine Spekulation, sondern Ausdruck einer Verbindung zwischen Daten, Kunst und Identität.
 
+Gleichzeitig bleibe ich realistisch: Neben Krypto- und Kunstprojekten investiere ich regelmäßig in ETFs und Aktien – als langfristige, konservative Strategie zur finanziellen Absicherung.
+
 ---
 
 ## Über das Lernen mit Geld
@@ -92,8 +94,6 @@ Ich habe gelernt:
 - dass Sparen mit System möglich ist – selbst mit wenig Geld
 
 **Ziel ist nicht das perfekte Portfolio, sondern ein Datenraum zum Verstehen.**
-
-Ich bleibe realistisch: Neben Krypto- und Kunstprojekten investiere ich regelmäßig in ETFs und Aktien – als langfristige, konservative Strategie für finanzielle Sicherheit.
 
 ---
 
