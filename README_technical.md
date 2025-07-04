@@ -38,7 +38,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ## Was enthält dieses Projekt?
 
-### 1. [Crypto_Art_Portfolio_June_2025.xlsx](Crypto_Art_Portfolio_June_2025.xlsx)
+### 1. ![Crypto & NFT Portfolio](Crypto_Art_Portfolio_June_2025.xlsx)
 
 **Inhalte**
 
@@ -58,9 +58,10 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ---
 
-### 2. ### 📊 Investment Plan – Start bis Ende Juni 2025
+### 2. ### Investment Plan
 
-![Investment Plan – Start bis Ende Juni 2025](01_Fixed_Investment_Plan_June2025.png)
+![Fixed Investment Plan 2025-2027](01_Fixed_Investment_Plan_June2025.png)
+
 **Inhalte**
 
 - Fixer ETF, ETC und Aktienplan mit Start im Juni 2025  
