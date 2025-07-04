@@ -151,6 +151,15 @@ Die Excel Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 - [ETF Allocation Diagramm](./01_ETF_Equity_Allocation_Current.png)  
 - [Crypto Allocation Diagramm](./01_Crypto_Allocation_Percentage.png)
 
+**Juni 2025**
+
+- [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)  
+- [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)  
+
+**Visualisierungen**
+
+- [ETF Allocation Diagramm](./01_ETF_Equity_Allocation_Current.png)  
+- [Crypto Allocation Diagramm](./01_Crypto_Allocation_Percentage.png)
 ---
 
 ---
