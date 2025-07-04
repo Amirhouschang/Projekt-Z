@@ -58,8 +58,9 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ---
 
-### 2. [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)
+### 2. ### 📊 Investment Plan – Start bis Ende Juni 2025
 
+![Investment Plan – Start bis Ende Juni 2025](01_Fixed_Investment_Plan_June2025.png)
 **Inhalte**
 
 - Fixer ETF, ETC und Aktienplan mit Start im Juni 2025  
