@@ -38,7 +38,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ## Was enthält dieses Projekt?
 
-### 1.[Crypto & NFT Portfolio](Crypto_Art_Portfolio_June_2025.xlsx)
+### 1. [Crypto & NFT Portfolio](Crypto_Art_Portfolio_June_2025.xlsx)
 
 **Inhalte**
 
@@ -58,7 +58,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ---
 
-### 2. ### Investment Plan
+### 2. Investment Plan
 
 ![Fixed Investment Plan 2025-2027](01_Fixed_Investment_Plan_June2025.png)
 
@@ -74,6 +74,8 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ![Investment Table](./01_Investment_Table.png)  
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*
+
+**[Aktueller Portfoliostand – 4. Juli 2025](Investment_Plan_June25.xlsx)**
 
 **Visualisierungen**
 
