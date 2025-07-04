@@ -53,7 +53,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 ![Crypto Allocation](Crypto_Allocation_June25.png)  
 *Portfolioanteile nach Coin – visuelle Verteilung der Assets*
 
-![Invested vs. Value – Crypto](June25_Invested Cost vs. Portfolio Value.png)
+![Invested vs. Value – Crypto](June25_Invested%20Cost%20vs.%20Portfolio%20Value.png)
 *Vergleich der Investitionssumme und aktuellen Werte je Coin*
 
 ---
