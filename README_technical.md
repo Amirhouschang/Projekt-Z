@@ -77,9 +77,6 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 **Visualisierungen**
 
-![Rebalancing Plan Juni 2025](./01_Fixed_Investment_Plan_June2025.png)  
-*Geplante Verteilung ab Juni 2025 als Kreisdiagramm*
-
 ![Aktuelle Asset Allocation](Asset_Allocation_June25.png)
 *Allokation nach Asset in Prozent – horizontaler Vergleich*
 
@@ -148,8 +145,8 @@ Die Excel Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 **Visualisierungen**
 
-- [ETF Allocation Diagramm](./01_ETF_Equity_Allocation_Current.png)  
-- [Crypto Allocation Diagramm](./01_Crypto_Allocation_Percentage.png)
+- ![ETF Allocation Diagramm](./01_ETF_Equity_Allocation_Current.png)  
+- ![Crypto Allocation Diagramm](./01_Crypto_Allocation_Percentage.png)
 
 **Juni 2025**
 
@@ -158,8 +155,8 @@ Die Excel Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 **Visualisierungen**
 
-- [ETF Allocation Diagramm](Asset_Allocation_June25.png)  
-- [Crypto Allocation Diagramm](Crypto_Allocation_June25.png)
+- ![ETF Allocation Diagramm](Asset_Allocation_June25.png)  
+- ![Crypto Allocation Diagramm](Crypto_Allocation_June25.png)
 ---
 
 ---
