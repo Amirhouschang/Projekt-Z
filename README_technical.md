@@ -1,4 +1,4 @@
-# Technischer Projektüberblick (Stand: 8. Juni 2025)
+# Technischer Projektüberblick (Stand: 5. Juli 2025)
 
 Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche und strukturierte Übersicht aller verwendeten Datenquellen, Methoden, Tools und geplanten Schritte.
 
@@ -38,7 +38,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ## Was enthält dieses Projekt?
 
-### 1. [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
+### 1. [Crypto_Art_Portfolio_June_2025.xlsx.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
 
 **Inhalte**
 
@@ -50,10 +50,10 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 **Visualisierungen**
 
-![Crypto Allocation](./01_Crypto_Allocation_Percentage.png)  
+![Crypto Allocation](Crypto_Allocation_June25.png)  
 *Portfolioanteile nach Coin – visuelle Verteilung der Assets*
 
-![Invested vs. Value – Crypto](./01_Crypto_Invested_vs_Value.png)  
+![Invested vs. Value – Crypto](June25_Invested Cost vs. Portfolio Value.png)
 *Vergleich der Investitionssumme und aktuellen Werte je Coin*
 
 ---
