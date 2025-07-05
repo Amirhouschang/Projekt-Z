@@ -58,6 +58,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ---
 
+
 ### 2. Investment Plan
 
 ![Fixed Investment Plan 2025-2027](01_Fixed_Investment_Plan_June2025.png)
@@ -75,14 +76,15 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 ![Investment Table](./01_Investment_Table.png)  
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*
 
+
+
 **[Aktueller Portfoliostand – 4. Juli 2025](Investment_Plan_June25.xlsx)**
 
 **Visualisierungen**
 
 ![Aktuelle Asset Allocation](Asset_Allocation_June25.png)
-*Allokation nach Asset in Prozent – horizontaler Vergleich*
 
-![Portfolio Wert vs. Investiert](Investment_vs_CurrentValue_June2025.png)
+![Portfolio Wert vs. Investiert](Investment_vs_Current%20Value_June2025.png)
 
 *Wertentwicklung pro Position im Vergleich zur Investition*
 
