@@ -136,9 +136,9 @@ The Excel structure serves as a foundation for ongoing analysis, reflection, and
 
 ---
 
-## Monthly Files and Visualizations
+### Monthly Files and Visualizations
 
-**May 2025**
+#**May 2025**
 
 - [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)  
 - [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
@@ -148,7 +148,9 @@ The Excel structure serves as a foundation for ongoing analysis, reflection, and
 ![ETF Allocation Chart](./01_ETF_Equity_Allocation_Current.png)  
 ![Crypto Allocation Chart](./01_Crypto_Allocation_Percentage.png)
 
-**July 2025**
+---
+
+#**July 2025**
 
 - [01_Investment_Plan_2025_Rebalancing.xlsx](Investment_Plan_June25.xlsx)  
 - [01_Crypto_Art_Portfolio_2025.xlsx](Crypto_Art_Portfolio_June_2025.xlsx)
