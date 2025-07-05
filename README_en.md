@@ -138,26 +138,28 @@ The Excel structure serves as a foundation for ongoing analysis, reflection, and
 
 ### Monthly Files and Visualizations
 
-#**May 2025**
+**May 2025**
 
 - [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)  
 - [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
 
 **Visualizations**
 
-![ETF Allocation Chart](./01_ETF_Equity_Allocation_Current.png)  
+![ETF Allocation Chart](./01_ETF_Equity_Allocation_Current.png) 
+
 ![Crypto Allocation Chart](./01_Crypto_Allocation_Percentage.png)
 
 ---
 
-#**July 2025**
+**July 2025**
 
 - [01_Investment_Plan_2025_Rebalancing.xlsx](Investment_Plan_June25.xlsx)  
 - [01_Crypto_Art_Portfolio_2025.xlsx](Crypto_Art_Portfolio_June_2025.xlsx)
 
 **Visualizations**
 
-![ETF Allocation Chart](.Asset_Allocation_June25.png)  
+![ETF Allocation Chart](Asset_Allocation_June25.png)  
+
 ![Crypto Allocation Chart](Crypto_Allocation_June25.png)
 
 All Excel files are updated monthly and published at the beginning of each new month.
