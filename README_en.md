@@ -58,31 +58,31 @@ All data, charts, and visuals are updated at the beginning of each month.
 
 ---
 
-### 2. [Investment Portfolio 2025–2027](Investment_Plan_June25.xlsx)
+### 2. Investment Plan 2025–2027
 
 **Contents**
 
-- Fixed plan of ETFs, ETCs, and individual stocks starting June 2025  
+- Fixed plan of ETFs, ETCs, and individual stocks starting in June 2025  
 - ETFs (World, Defense, Technology)  
 - Physical Gold ETC  
 - Individual stocks: ASML, Rheinmetall  
-- Platforms: Scalable Capital
+- Platform: Scalable Capital
 
-**Investment Table (Excerpt)**
+**Fixed Investment Table (Excerpt)**
 
 ![Investment Table](./01_Investment_Table.png)  
 *Detailed overview: platform, ISIN, asset class, allocation*
 
-**Visualizations**
-
-![Fixed Investment Plan 2025=](./01_Fixed_Investment_Plan_June2025.png)  
+![Fixed Investment Plan 2025](./01_Fixed_Investment_Plan_June2025.png)  
 *Planned allocation starting June 2025 (pie chart)*
 
-![Current Asset Allocation](Asset_Allocation_June25.png)  
-*Asset allocation in percent – horizontal comparison*
+### [Current Investment Portfolio – 4 July 2025](Investment_Plan_June25.xlsx)
 
-![Portfolio Value vs. Invested](nvestment_vs_Current%20Value_June2025.png)  
-*Value development per position compared to investment*
+![Current Asset Allocation](Asset_Allocation_June25.png)  
+*Asset allocation in percent (pie chart)*
+
+![Portfolio Value vs. Invested](Investment_vs_Current%20Value_June2025.png)  
+*Value development per position compared to total investment*
 
 ---
 
