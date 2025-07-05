@@ -1,4 +1,4 @@
-## Technical Project Overview (As of June 8, 2025)
+## Technical Project Overview (As of July 5, 2025)
 
 This section complements the personal side of the project by offering a factual and structured overview of all data sources, methods, tools, and planned steps used throughout.
 
@@ -38,7 +38,7 @@ All data, charts, and visuals are updated at the beginning of each month.
 
 ## What This Project Contains
 
-### 1. [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
+### 1. [Crypto_NFT_Portfolio](Crypto_Art_Portfolio_June_2025.xlsx)
 
 **Contents**
 
@@ -50,15 +50,15 @@ All data, charts, and visuals are updated at the beginning of each month.
 
 **Visualizations**
 
-![Crypto Allocation](./01_Crypto_Allocation_Percentage.png)  
+![Crypto Allocation](Crypto_Allocation_June25.png)  
 *Portfolio share by coin – visual asset distribution*
 
-![Invested vs. Value – Crypto](./01_Crypto_Invested_vs_Value.png)  
+![Invested vs. Value – Crypto](June25_Invested%20Cost%20vs.%20Portfolio%20Value.png)  
 *Comparison of investment amount and current value per coin*
 
 ---
 
-### 2. [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)
+### 2. [Investment Portfolio 2025–2027](Investment_Plan_June25.xlsx)
 
 **Contents**
 
@@ -75,16 +75,13 @@ All data, charts, and visuals are updated at the beginning of each month.
 
 **Visualizations**
 
-![Rebalancing Plan June 2025](./01_Fixed_Investment_Plan_June2025.png)  
+![Fixed Investment Plan 2025=](./01_Fixed_Investment_Plan_June2025.png)  
 *Planned allocation starting June 2025 (pie chart)*
 
-![Current Asset Allocation](./01_ETF_Equity_Allocation_Current.png)  
+![Current Asset Allocation](Asset_Allocation_June25.png)  
 *Asset allocation in percent – horizontal comparison*
 
-![Invested vs. Costs – ETFs](./01_ETF_Invested_vs_TotalCost.png)  
-*Planned vs. actual contributions*
-
-![Portfolio Value vs. Invested](./01_ETF_Investment_vs_CurrentValue.png)  
+![Portfolio Value vs. Invested](nvestment_vs_Current%20Value_June2025.png)  
 *Value development per position compared to investment*
 
 ---
@@ -145,12 +142,20 @@ The Excel structure serves as a foundation for ongoing analysis, reflection, and
 
 - [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)  
 - [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
+**Visualizations**
+
+![ETF Allocation Chart](./01_ETF_Equity_Allocation_Current.png)  
+![Crypto Allocation Chart](./01_Crypto_Allocation_Percentage.png)
+
+**July 2025**
+
+- [01_Investment_Plan_2025_Rebalancing.xlsx](Investment_Plan_June25.xlsx)  
+- [01_Crypto_Art_Portfolio_2025.xlsx](Crypto_Art_Portfolio_June_2025.xlsx)
 
 **Visualizations**
 
-- [ETF Allocation Chart](./01_ETF_Equity_Allocation_Current.png)  
-- [Crypto Allocation Chart](./01_Crypto_Allocation_Percentage.png)
-
+![ETF Allocation Chart](.Asset_Allocation_June25.png)  
+![Crypto Allocation Chart](Crypto_Allocation_June25.png)
 All Excel files are updated monthly and published at the beginning of each new month.
 
 ---
