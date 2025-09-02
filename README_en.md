@@ -1,9 +1,9 @@
-## Technical Project Overview (As of September 2, 2025)
+# Technical Project Overview (As of September 2, 2025)
 
-This section complements the personal side of the project by offering a factual and structured overview of all data sources, methods, tools, and planned steps used throughout.
+This section complements the personal side of the project by offering a factual and structured overview of all data sources, methods, tools, and planned steps.
 
 **Note**  
-The Excel files are published monthly and listed at the end of this document in the section “Monthly Files and Visualizations.”  
+The Excel files are published monthly and listed at the end of this document in the section **“Monthly Files and Visualizations.”**  
 All data, charts, and visuals are updated at the beginning of each month.
 
 ---
@@ -11,34 +11,37 @@ All data, charts, and visuals are updated at the beginning of each month.
 ## Technical Data Handling
 
 - **Data Collection**  
-  Manual input of investments, prices, and purchases in Excel
+  Manual entry of investments, prices, and purchases in Excel  
 
 - **Data Storage**  
-  Local storage on MacBook with cloud backup
+  Local storage on MacBook with cloud backup  
 
 - **Data Maintenance**  
-  Weekly price updates, monthly entry of new data
+  Weekly price updates, monthly addition of new entries  
 
 - **Data Analysis**  
-  Calculations and visualizations (e.g., portfolio distribution, gain/loss development)
+  Calculations and visualizations (e.g., portfolio distribution, gain/loss development)  
 
 - **Partial Processing with Python**  
-  Initial testing for automation and future analysis (e.g., charts, data cleaning, timestamps)
+  Initial testing for automation and later analysis (e.g., charts, data cleaning, timestamps).  
+  Currently, two Python scripts are in use:  
+  - `Coins,2025.py`  
+  - `Investment.py`  
 
 - **Data Publishing**  
-  Upload of selected files and visuals to GitHub
+  Selected files and charts are uploaded to GitHub  
 
 - **Data Archiving**  
-  Monthly versioning via copies saved in separate folders
+  Monthly versioning via copies saved in separate folders  
 
 - **Data Deletion**  
-  Conscious removal of outdated or incorrect content
+  Conscious removal of outdated or incorrect content  
 
 ---
 
 ## What This Project Contains
 
-### 1. [Crypto_Portfolio](Crypto_Portfolio_September_2025.xlsx)
+### 1. [Crypto Portfolio](Crypto_Portfolio_September_2025.xlsx)
 
 **Contents**
 
@@ -46,15 +49,15 @@ All data, charts, and visuals are updated at the beginning of each month.
 - Rewards, staking, platforms  
 - Purchases and sales (including NFTs via Tezos)  
 - NFT platform: Objkt.com  
-- Integration of NFT costs with crypto data in the "Summary" tab
+- Integration of NFT costs with crypto data in the `Summary` tab  
 
 **Visualizations**
 
 ![Crypto Allocation](Crypto_Allocation_September.png)  
-*Portfolio share by coin – visual asset distribution*
+*Portfolio share by coin (pie chart)*  
 
 ![Invested vs. Value – Crypto](Invested_vs_Value_September2025.png)  
-*Comparison of investment amount and current value per coin*
+*Comparison of investment amount and current value per coin (bar chart)*  
 
 ---
 
@@ -66,145 +69,130 @@ All data, charts, and visuals are updated at the beginning of each month.
 - ETFs (World, Defense, Technology)  
 - Physical Gold ETC  
 - Individual stocks: ASML, Rheinmetall  
-- Platform: Scalable Capital
+- Platform: Scalable Capital  
 
-**Fixed Investment Table (Excerpt)**
+**Fixed Investment Table (Excerpt)**  
 
 ![Investment Table](Fixed_Plan_September_2025.png)  
-*Detailed overview: platform, ISIN, asset class, allocation*
+*Detailed overview: platform, ISIN, asset class, allocation*  
 
 ![Fixed Investment Plan 2025](Fixed_Plan_2025.png)  
-*Planned allocation starting June 2025 (pie chart)*
+*Planned allocation starting June 2025 (pie chart)*  
 
-### [Current Investment Portfolio – 2 September 2025](Investment_Plan_September_2025.xlsx)
+**[Current Investment Portfolio – September 2, 2025](Investment_Plan_September_2025.xlsx)**  
 
 ![Current Asset Allocation](Asset_Allocation_September_2025.png)  
-*Asset allocation in percent (pie chart)*
+*Current allocation in percent (pie chart)*  
 
 ![Portfolio Value vs. Invested](Asset_Invested_Value_September_2025.png)  
-*Value development per position compared to total investment*
+*Value development per position compared to total investment (bar chart)*  
 
-![Result](Result_Asset_September_2025.png)
+![Result](Result_Asset_September_2025.png)  
+*Overall portfolio performance*  
 
 ---
 
 ## Methods and Tools
 
 **Microsoft Excel**  
-Chosen for visual precision, clear structure, and full control without external templates
+Chosen for visual precision, clear structure, and full control without external templates.  
 
-Used for:
-
+Used for:  
 - Automated calculations (e.g., invested vs. current value)  
-- Charts with neutral color scheme  
-- Monthly sheets for tracking time development
+- Charts with a neutral color scheme  
+- Monthly sheets for tracking time developments  
 
 **GitHub**  
-Platform for version control and structured documentation of project progress
+Platform for version control and structured documentation of project progress.  
 
-**Data Collection Platforms**
-
-- Scalable Capital (ETFs, stocks, savings plans)    
+**Data Collection Platforms**  
+- Scalable Capital (ETFs, stocks, savings plans)  
 - Bitvavo (crypto, staking)  
-- Wallets: Temple (XTZ), Phantom (SOL), Ledger 
-- Price sources: Bitvavo, CoinMarketCap, Yahoo Finance
+- Wallets: Temple (XTZ), Phantom (SOL), Ledger  
+- Price sources: Bitvavo, CoinMarketCap, Yahoo Finance  
 
 I am currently learning Python (as of September 2025).  
-Some elements like coin prices and timestamps are already automated.  
-All other data is still being entered manually:
+Some elements, such as coin prices and timestamps, are already automated.  
+All other data is still entered manually.  
 
--[Krypto.py](Coins,2025.py)
-
--[Asset.py](Investment.py)
-
-**Reflection and Support**
-
+**Reflection and Support**  
 - Podcasts, expert blogs, personal research  
-- AI support (e.g., via ChatGPT)
+- AI support (e.g., ChatGPT)  
 
 ---
 
 ## Planned Expansions
 
 - Monthly time series analysis (costs, value, allocation)  
-- Technical implementation via Power BI or Python (pandas, matplotlib)  
+- Technical implementation using Power BI or Python (`pandas`, `matplotlib`)  
 - Rebalancing evaluation starting summer 2025  
-- Development of interactive KPIs and dashboards
+- Development of interactive KPIs and dashboards  
 
 ---
 
 ## Objectives
 
-This project is a structured and honest entry into working with financial data.  
-It is based on real decisions, real risk, and a clear learning goal.  
-The Excel structure serves as a foundation for ongoing analysis, reflection, and technical growth.
+This project is a structured and transparent entry into working with financial data.  
+It is based on real decisions, real risks, and a clear learning goal.  
+The Excel structure serves as a foundation for ongoing analysis, reflection, and technical growth.  
 
 ---
 
-### Monthly Files and Visualizations
+## Monthly Files and Visualizations
 
-**May 2025**
+**May 2025**  
+- [Investment Plan – May 2025](./01_Investment_Plan_2025_Rebalancing.xlsx)  
+- [Crypto Portfolio – May 2025](./01_Crypto_Art_Portfolio_2025.xlsx)  
 
-- [Investment_Plan_Mai 2025](./01_Investment_Plan_2025_Rebalancing.xlsx)  
-- [Crypto_Art_Portfolio_Mai 2025](./01_Crypto_Art_Portfolio_2025.xlsx)
-
-**Visualizations**
-
-![Asset Allocation Chart](./01_ETF_Equity_Allocation_Current.png) 
-
-![Crypto Allocation Chart](./01_Crypto_Allocation_Percentage.png)
+**Visualizations**  
+![Asset Allocation Chart](./01_ETF_Equity_Allocation_Current.png)  
+![Crypto Allocation Chart](./01_Crypto_Allocation_Percentage.png)  
 
 ---
 
-**July 2025**
+**July 2025**  
+- [Investment Plan – July 2025](Investment_Plan_June25.xlsx)  
+- [Crypto Portfolio – July 2025](Crypto_Art_Portfolio_June_2025.xlsx)  
 
-- [Investment_Plan_July 2025](Investment_Plan_June25.xlsx)  
-- [Crypto Portfolio_July 2025](Crypto_Art_Portfolio_June_2025.xlsx)
-
-**Visualizations**
-
+**Visualizations**  
 ![Asset Allocation Chart](Asset_Allocation_June25.png)  
-
-![Crypto Allocation Chart](Crypto_Allocation_June25.png)
+![Crypto Allocation Chart](Crypto_Allocation_June25.png)  
 
 ---
 
- **August 2025**
- 
-- [Investment_Plan_August 2025](Investment_Plan_September_2025.xlsx)  
-- [Crypto Portfolio_August 2025](Invested_vs_Value_September2025.xlsx)
+**August 2025**  
+- [Investment Plan – August 2025](Investment_Plan_September_2025.xlsx)  
+- [Crypto Portfolio – August 2025](Invested_vs_Value_September2025.xlsx)  
 
-**Visualizations**
+**Visualizations**  
+![Asset Allocation Chart](Asset_Allocation_September_2025.png)  
+![Crypto Allocation Chart](Crypto_Allocation_September.png)  
 
-![Asser Allocation Chart](Asset_Allocation_September_2025.png)  
-
-![Crypto Allocation Chart](Crypto_Allocation_September.png)
-
-
-All Excel files are updated monthly and published at the beginning of each new month.
+All Excel files are updated monthly and published at the beginning of each new month.  
 
 ---
 
 ### 🔍 Personal Context (Optional)
 
 If you are interested in the personal background, motivation, and life context behind this project:  
- [See the personal README](./README.md)
+👉 [See the personal README](./README.md)  
 
 ---
 
 **Author**: A.R.  
-**Project Duration**: Starting May 2025, planned through at least May 2027
+**Project Duration**: Started May 2025, with a timeline through at least May 2027  
 
 ---
 
-### Special Thanks to ChatGPT 🤖
+## Special Thanks to ChatGPT 🤖
 
-This entire project was designed and built by myself including all data, logic, visuals, and documentation.
+This entire project was designed and built by myself, including all data, logic, visuals, and documentation.  
 
-However, when I started, I had zero knowledge and no teacher. I found online materials, later bought books, and used ChatGPT as my main guide. Whenever I got stuck, had a technical question, or couldn’t find an answer, I asked ChatGPT. It was like having a very patient (and sometimes very confused) teacher by my side. The bot guided me step by step, often helping me turn vague ideas into working formulas or showing me that the answer was just one click away.
+When I started, I had no prior knowledge and no teacher. I found online materials, later bought books, and used ChatGPT as my main guide. Whenever I got stuck, had a technical question, or couldn’t find an answer, I asked ChatGPT. It was like having a very patient (and sometimes quite confused) teacher by my side. The bot guided me step by step, often helping me turn vague ideas into working formulas or showing me that the answer was just one click away.  
 
-Of course, ChatGPT is not perfect. It sometimes gave me wrong answers, made things unnecessarily complicated, or completely misunderstood what I meant. When that happened, I nearly went crazy.
+Of course, ChatGPT is not perfect. It sometimes gave me incorrect answers, made things unnecessarily complicated, or completely misunderstood my intent. At times, this was frustrating.  
 
-👉 Always double check important results especially when it comes to finances, taxes, Web3 technologies, or fee structures. The bot occasionally mentioned outrageous fees or gave outdated information. Always verify critical claims and ask: Where is this from?
+👉 Always double-check important results, especially when it comes to finances, taxes, Web3 technologies, or fees. Occasionally, the bot mentioned unrealistic fees or outdated information. Always verify critical claims and ask: *Where is this from?*  
 
-In the end, though, it worked. The tool became part of my learning process, my structure, and sometimes even my therapy. Despite the misunderstandings, arguments, and false info, I will grow up and learn with AI.
+In the end, though, it worked. The tool became part of my learning process, my structure, and sometimes even my therapy. Despite the misunderstandings, discussions, and incorrect info:  
+**I will continue to grow and learn with AI.**
