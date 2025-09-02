@@ -146,8 +146,8 @@ Die Excel-Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 **Mai 2025**
 
-- [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)  
-- [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)  
+- [nvestment Plan_Mai 2025](./01_Investment_Plan_2025_Rebalancing.xlsx)  
+- [Crypto Portfolio_Mai 2025](./01_Crypto_Art_Portfolio_2025.xlsx)  
 
 **Visualisierungen**
 
@@ -156,8 +156,8 @@ Die Excel-Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 **Juni 2025**
 
-- [01_Investment_Plan_2025_Rebalancing.xlsx](Investment_Plan_June25.xlsx)  
-- [01_Crypto_Art_Portfolio_2025.xlsx](Crypto_Art_Portfolio_June_2025.xlsx)  
+- [Investment_Plan_Juni 2025_Rebalancing.xlsx](Investment_Plan_June25.xlsx)  
+- [Crypto Portfolio_Juni 2025.xlsx](Crypto_Art_Portfolio_June_2025.xlsx)  
 
 **Visualisierungen**
 
