@@ -75,7 +75,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 **Investmenttabelle (Auszug)**
 
-![Investment Table](Fixed Investment Plan 2025.png)
+![Investment Table](Fixed_Investment_Plan_ 2025.png)
 
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*  
 
