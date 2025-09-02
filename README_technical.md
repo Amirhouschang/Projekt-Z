@@ -164,15 +164,15 @@ Die Excel-Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 ![Asset Allocation Diagramm](Asset_Allocation_June25.png)  
 ![Crypto Allocation Diagramm](Crypto_Allocation_June25.png)
 
-**Juli 2025**
+**August 2025**
 
-- [Investment Plan Juli 2025](01_Investment_Plan_2025_Rebalancing.xlsx)
-- [Crypto Portfolio Juli 2025](01_Crypto_Art_Portfolio_2025.xlsx)
+- [Investment Plan August 2025](Investment_Plan_September_2025.xlsx)
+- [Crypto Portfolio August 2025](Crypto_Portfolio_September_2025.xlsx)
 
 **Visualisierungen**
 
-![Asset Allocation Diagramm](01_ETF_Equity_Allocation_Current)
-![Crypto Allocation Diagramm]()
+![Asset Allocation Diagramm](Asset_Allocation_September_2025.png)
+![Crypto Allocation Diagramm](Crypto_Allocation_September.png)
 
 ---
 
