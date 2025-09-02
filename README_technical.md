@@ -25,8 +25,8 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 - **Teilweise Verarbeitung mit Python**  
   Erste Tests zur Automatisierung und späteren Analyse (z. B. Diagramme, Datenbereinigung, Zeitstempel).  
   Aktuell liegen dafür **zwei Python-Skripte** vor:  
-  - `Investment.py`  
-  - `Coins,2025.py`  
+  - [Investment.py](Investment.py)  
+  - [Coins,2025.py](Coins,2025.py)  
 
 - **Datenveröffentlichung**  
   GitHub Upload ausgewählter Dateien und Diagramme  
