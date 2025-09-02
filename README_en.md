@@ -76,7 +76,7 @@ All data, charts, and visuals are updated at the beginning of each month.
 ![Fixed Investment Plan 2025](Fixed_Plan_2025.png)  
 *Planned allocation starting June 2025 (pie chart)*
 
-### [Current Investment Portfolio – 4 July 2025](Investment_Plan_September_2025.xlsx)
+### [Current Investment Portfolio – 2 September 2025](Investment_Plan_September_2025.xlsx)
 
 ![Current Asset Allocation](Asset_Allocation_September_2025.png)  
 *Asset allocation in percent (pie chart)*
@@ -105,11 +105,14 @@ Platform for version control and structured documentation of project progress
 - Scalable Capital (ETFs, stocks, savings plans)    
 - Bitvavo (crypto, staking)  
 - Wallets: Temple (XTZ), Phantom (SOL), Ledger 
-- Price sources: Bitvavo, CoinMarketCap
+- Price sources: Bitvavo, CoinMarketCap, Yahoo Finance
 
-I am currently learning Python (as of June 2025).  
+I am currently learning Python (as of September 2025).  
 Some elements like coin prices and timestamps are already automated.  
 All other data is still being entered manually.
+
+-[Krypto](Coins,2025.py)
+-[Asset](Investment.py)
 
 **Reflection and Support**
 
