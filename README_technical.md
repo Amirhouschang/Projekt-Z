@@ -79,7 +79,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*  
 
-**[Aktueller Portfoliostand – 4. Juli 2025](Investment_Plan_June25.xlsx)**
+**[Aktueller Portfoliostand – 2. September 2025](Investment_Plan_June25.xlsx)**
 
 **Visualisierungen**
 
