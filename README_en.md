@@ -84,7 +84,7 @@ All data, charts, and visuals are updated at the beginning of each month.
 ![Portfolio Value vs. Invested](Asset_Invested_Value_September_2025.png)  
 *Value development per position compared to total investment*
 
-![Result](Result_Asset_September_2025)
+![Result](Result_Asset_September_2025.png)
 
 ---
 
