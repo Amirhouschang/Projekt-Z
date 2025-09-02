@@ -41,7 +41,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ## Was enthält dieses Projekt?
 
-### 1. [Crypto & NFT Portfolio](Crypto_Art_Portfolio_June_2025.xlsx)
+### 1. [Crypto & NFT Portfolio](Crypto_Portfolio_September_2025.xlsx)
 
 **Inhalte**
 
