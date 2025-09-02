@@ -111,10 +111,11 @@ Platform for version control and structured documentation of project progress
 
 I am currently learning Python (as of September 2025).  
 Some elements like coin prices and timestamps are already automated.  
-All other data is still being entered manually.
+All other data is still being entered manually:
 
--[Krypto](Coins,2025.py)
--[Asset](Investment.py)
+-[Krypto.py](Coins,2025.py)
+
+-[Asset.py](Investment.py)
 
 **Reflection and Support**
 
