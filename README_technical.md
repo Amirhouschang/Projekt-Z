@@ -1,4 +1,4 @@
-# Technischer Projektüberblick (Stand: 5. Juli 2025)
+# Technischer Projektüberblick (Stand: 2. September 2025)
 
 Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche und strukturierte Übersicht aller verwendeten Datenquellen, Methoden, Tools und geplanten Schritte.
 
