@@ -25,8 +25,8 @@ All data, charts, and visuals are updated at the beginning of each month.
 - **Partial Processing with Python**  
   Initial testing for automation and later analysis (e.g., charts, data cleaning, timestamps).  
   Currently, two Python scripts are in use:  
-  - `Coins,2025.py`  
-  - `Investment.py`  
+  - [Coins,2025.py](Coins,2025.py)  
+  - [Investment.py](Investment.py)  
 
 - **Data Publishing**  
   Selected files and charts are uploaded to GitHub  
