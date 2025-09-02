@@ -63,7 +63,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ### 2. Investment Plan
 
-![Fixed Investment Plan 2025-2027](01_Fixed_Investment_Plan_June2025.png)
+![Fixed Investment Plan 2025-2027](Fixed_Investment_Plan_September2025)
 
 **Inhalte**
 
@@ -75,7 +75,8 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 **Investmenttabelle (Auszug)**
 
-![Investment Table](./01_Investment_Table.png)  
+![Investment Table](Fixed Investment Plan 2025.png)
+
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*  
 
 **[Aktueller Portfoliostand – 4. Juli 2025](Investment_Plan_June25.xlsx)**
