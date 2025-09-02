@@ -63,7 +63,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ### 2. Investment Plan
 
-![Fixed Investment Plan 2025-2027](Fixed20%Investment20%Plan20%September2025)
+![Fixed Investment Plan 2025-2027](Fixed_Plan_September_2025.png)
 
 **Inhalte**
 
