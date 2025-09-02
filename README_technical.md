@@ -83,11 +83,11 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 **Visualisierungen**
 
-![Aktuelle Asset Allocation](Asset_Allocation_September_2025)  
+![Aktuelle Asset Allocation](Asset_Allocation_September_2025.png)  
 
-![Portfolio Wert vs. Investiert](Asset_Invested_Value_September_2025)  
+![Portfolio Wert vs. Investiert](Asset_Invested_Value_September_2025.png)  
 
-![Result](Result_Asset_September_2025)
+![Result](Result_Asset_September_2025.png)
 
 *Wertentwicklung pro Position im Vergleich zur Investition*
 
