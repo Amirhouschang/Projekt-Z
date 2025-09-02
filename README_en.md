@@ -1,4 +1,4 @@
-## Technical Project Overview (As of July 5, 2025)
+## Technical Project Overview (As of September 2, 2025)
 
 This section complements the personal side of the project by offering a factual and structured overview of all data sources, methods, tools, and planned steps used throughout.
 
@@ -38,7 +38,7 @@ All data, charts, and visuals are updated at the beginning of each month.
 
 ## What This Project Contains
 
-### 1. [Crypto_NFT_Portfolio](Crypto_Art_Portfolio_June_2025.xlsx)
+### 1. [Crypto_Portfolio](Crypto_Portfolio_September_2025.xlsx)
 
 **Contents**
 
@@ -50,10 +50,10 @@ All data, charts, and visuals are updated at the beginning of each month.
 
 **Visualizations**
 
-![Crypto Allocation](Crypto_Allocation_June25.png)  
+![Crypto Allocation](Crypto_Allocation_September.png)  
 *Portfolio share by coin – visual asset distribution*
 
-![Invested vs. Value – Crypto](June25_Invested%20Cost%20vs.%20Portfolio%20Value.png)  
+![Invested vs. Value – Crypto](Invested_vs_Value_September2025.png)  
 *Comparison of investment amount and current value per coin*
 
 ---
@@ -70,18 +70,18 @@ All data, charts, and visuals are updated at the beginning of each month.
 
 **Fixed Investment Table (Excerpt)**
 
-![Investment Table](./01_Investment_Table.png)  
+![Investment Table](Fixed_Plan_September_2025.png)  
 *Detailed overview: platform, ISIN, asset class, allocation*
 
-![Fixed Investment Plan 2025](./01_Fixed_Investment_Plan_June2025.png)  
+![Fixed Investment Plan 2025](Fixed_Plan_2025.png)  
 *Planned allocation starting June 2025 (pie chart)*
 
-### [Current Investment Portfolio – 4 July 2025](Investment_Plan_June25.xlsx)
+### [Current Investment Portfolio – 4 July 2025](Investment_Plan_September_2025.xlsx)
 
-![Current Asset Allocation](Asset_Allocation_June25.png)  
+![Current Asset Allocation](Asset_Allocation_September_2025.png)  
 *Asset allocation in percent (pie chart)*
 
-![Portfolio Value vs. Invested](Investment_vs_Current%20Value_June2025.png)  
+![Portfolio Value vs. Invested](Asset_Invested_Value_September_2025.png)  
 *Value development per position compared to total investment*
 
 ---
@@ -102,10 +102,9 @@ Platform for version control and structured documentation of project progress
 
 **Data Collection Platforms**
 
-- Scalable Capital (ETFs, stocks, savings plans)  
-- Trade Republic (micro-investments)  
+- Scalable Capital (ETFs, stocks, savings plans)    
 - Bitvavo (crypto, staking)  
-- Wallets: Temple (XTZ), Phantom (SOL), Ledger (planned)  
+- Wallets: Temple (XTZ), Phantom (SOL), Ledger 
 - Price sources: Bitvavo, CoinMarketCap
 
 I am currently learning Python (as of June 2025).  
@@ -140,12 +139,12 @@ The Excel structure serves as a foundation for ongoing analysis, reflection, and
 
 **May 2025**
 
-- [01_Investment_Plan_2025_Rebalancing.xlsx](./01_Investment_Plan_2025_Rebalancing.xlsx)  
-- [01_Crypto_Art_Portfolio_2025.xlsx](./01_Crypto_Art_Portfolio_2025.xlsx)
+- [Investment_Plan_Mai 2025](./01_Investment_Plan_2025_Rebalancing.xlsx)  
+- [Crypto_Art_Portfolio_Mai 2025](./01_Crypto_Art_Portfolio_2025.xlsx)
 
 **Visualizations**
 
-![ETF Allocation Chart](./01_ETF_Equity_Allocation_Current.png) 
+![Asset Allocation Chart](./01_ETF_Equity_Allocation_Current.png) 
 
 ![Crypto Allocation Chart](./01_Crypto_Allocation_Percentage.png)
 
@@ -153,14 +152,28 @@ The Excel structure serves as a foundation for ongoing analysis, reflection, and
 
 **July 2025**
 
-- [01_Investment_Plan_2025_Rebalancing.xlsx](Investment_Plan_June25.xlsx)  
-- [01_Crypto_Art_Portfolio_2025.xlsx](Crypto_Art_Portfolio_June_2025.xlsx)
+- [Investment_Plan_July 2025](Investment_Plan_June25.xlsx)  
+- [Crypto Portfolio_July 2025](Crypto_Art_Portfolio_June_2025.xlsx)
 
 **Visualizations**
 
-![ETF Allocation Chart](Asset_Allocation_June25.png)  
+![Asset Allocation Chart](Asset_Allocation_June25.png)  
 
 ![Crypto Allocation Chart](Crypto_Allocation_June25.png)
+
+---
+
+ **August 2025**
+ 
+- [Investment_Plan_August 2025](Investment_Plan_September_2025.xlsx)  
+- [Crypto Portfolio_August 2025](Invested_vs_Value_September2025.xlsx)
+
+**Visualizations**
+
+![Asser Allocation Chart](Asset_Allocation_September_2025.png)  
+
+![Crypto Allocation Chart](Crypto_Allocation_September.png)
+
 
 All Excel files are updated monthly and published at the beginning of each new month.
 
