@@ -49,7 +49,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 - Rewards, Staking, Plattformen  
 - Käufe und Verkäufe (inkl. NFTs mit Tezos)  
 - NFT Plattform: Objkt.com  
-- Zusammenführung von NFT Kosten mit Krypto-Daten im `Summary`-Tab  
+- Zusammenführung von NFT Kosten mit Krypto-Daten im Summary  
 
 **Visualisierungen**
 
@@ -151,7 +151,7 @@ Die Excel-Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 **Visualisierungen**
 
-![ETF Allocation Diagramm](./01_ETF_Equity_Allocation_Current.png)  
+![Asset Allocation Diagramm](./01_ETF_Equity_Allocation_Current.png)  
 ![Crypto Allocation Diagramm](./01_Crypto_Allocation_Percentage.png)
 
 **Juni 2025**
@@ -161,8 +161,18 @@ Die Excel-Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 **Visualisierungen**
 
-![ETF Allocation Diagramm](Asset_Allocation_June25.png)  
+![Asset Allocation Diagramm](Asset_Allocation_June25.png)  
 ![Crypto Allocation Diagramm](Crypto_Allocation_June25.png)
+
+**Juli 2025**
+
+- [Investment Plan Juli 2025](01_Investment_Plan_2025_Rebalancing.xlsx)
+- [Crypto Portfolio Juli 2025](01_Crypto_Art_Portfolio_2025.xlsx)
+
+**Visualisierungen**
+
+![Asset Allocation Diagramm](01_ETF_Equity_Allocation_Current)
+![Crypto Allocation Diagramm]()
 
 ---
 
