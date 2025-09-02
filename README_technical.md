@@ -20,10 +20,13 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
   Wöchentliche Preisaktualisierung, monatliche Ergänzung von neuen Einträgen  
 
 - **Datenanalyse**  
-  Berechnungen und Visualisierungen (zum Beispiel Portfolioverteilung, Entwicklung von Gewinnen und Verlusten)  
+  Berechnungen und Visualisierungen (z. B. Portfolioverteilung, Entwicklung von Gewinnen und Verlusten)  
 
 - **Teilweise Verarbeitung mit Python**  
-  Erste Tests zur Automatisierung und späteren Analyse (zum Beispiel Diagramme, Datenbereinigung, Zeitstempel)  
+  Erste Tests zur Automatisierung und späteren Analyse (z. B. Diagramme, Datenbereinigung, Zeitstempel).  
+  Aktuell liegen dafür **zwei Python-Skripte** vor:  
+  - `Investment.py`  
+  - `Coins,2025.py`  
 
 - **Datenveröffentlichung**  
   GitHub Upload ausgewählter Dateien und Diagramme  
@@ -44,20 +47,19 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 - Coins: Bitcoin, Ethereum, Solana, Tezos  
 - Rewards, Staking, Plattformen  
-- Käufe und Verkäufe (inklusive NFTs mit Tezos)  
+- Käufe und Verkäufe (inkl. NFTs mit Tezos)  
 - NFT Plattform: Objkt.com  
-- Zusammenführung von NFT Kosten mit Krypto-Daten im „Summary“-Tab  
+- Zusammenführung von NFT Kosten mit Krypto-Daten im `Summary`-Tab  
 
 **Visualisierungen**
 
 ![Crypto Allocation](Crypto_Allocation_June25.png)  
 *Portfolioanteile nach Coin – visuelle Verteilung der Assets*
 
-![Invested vs. Value – Crypto](June25_Invested%20Cost%20vs.%20Portfolio%20Value.png)
+![Invested vs. Value – Crypto](June25_Invested%20Cost%20vs.%20Portfolio%20Value.png)  
 *Vergleich der Investitionssumme und aktuellen Werte je Coin*
 
 ---
-
 
 ### 2. Investment Plan
 
@@ -74,17 +76,15 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 **Investmenttabelle (Auszug)**
 
 ![Investment Table](./01_Investment_Table.png)  
-*Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*
-
-
+*Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*  
 
 **[Aktueller Portfoliostand – 4. Juli 2025](Investment_Plan_June25.xlsx)**
 
 **Visualisierungen**
 
-![Aktuelle Asset Allocation](Asset_Allocation_June25.png)
+![Aktuelle Asset Allocation](Asset_Allocation_June25.png)  
 
-![Portfolio Wert vs. Investiert](Investment_vs_Current%20Value_June2025.png)
+![Portfolio Wert vs. Investiert](Investment_vs_Current%20Value_June2025.png)  
 
 *Wertentwicklung pro Position im Vergleich zur Investition*
 
@@ -93,40 +93,39 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 ## Methoden und Tools
 
 **Microsoft Excel**  
-Gewählt wegen visueller Präzision, klarer Struktur und vollständiger Kontrolle ohne externe Vorlagen
+Gewählt wegen visueller Präzision, klarer Struktur und vollständiger Kontrolle ohne externe Vorlagen.
 
 Verwendet wurden:
 
-- Automatisierte Berechnungen (zum Beispiel investiert versus aktueller Wert)  
+- Automatisierte Berechnungen (z. B. investiert versus aktueller Wert)  
 - Diagramme mit sachlicher Farbwahl  
 - Monatsregister zur Beobachtung von Zeitverläufen  
 
 **GitHub**  
-Plattform zur Versionierung und strukturierten Dokumentation des Projektfortschritts
+Plattform zur Versionierung und strukturierten Dokumentation des Projektfortschritts.
 
 **Plattformen zur Datenerhebung**
 
 - Scalable Capital (ETFs, Aktien, Sparpläne)  
-- Trade Republic (Mikroinvestitionen)  
 - Bitvavo (Krypto, Staking)  
 - Wallets: Temple (XTZ), Phantom (SOL), Ledger (geplant)  
 - Preisquellen: Bitvavo, CoinMarketCap  
 
-Ich lerne aktuell Python (Stand: Juni 2025)  
-Einige Elemente wie Coinpreise und Zeitstempel werden bereits automatisiert erhoben  
-Alle weiteren Daten werden derzeit noch manuell dokumentiert  
+Ich lerne aktuell Python (Stand: Juni 2025).  
+Einige Elemente wie Coinpreise und Zeitstempel werden bereits automatisiert erhoben.  
+Alle weiteren Daten werden derzeit noch manuell dokumentiert.  
 
 **Reflexion und Begleitung**
 
 - Podcasts, Fachblogs, persönliche Recherche  
-- KI Unterstützung (zum Beispiel durch ChatGPT)
+- KI Unterstützung (z. B. ChatGPT)
 
 ---
 
 ## Geplante Erweiterungen
 
 - Monatliche Zeitreihenanalyse (Kosten, Wert, Allokation)  
-- Technische Umsetzung mit Power BI oder Python (pandas, matplotlib)  
+- Technische Umsetzung mit Power BI oder Python (`pandas`, `matplotlib`)  
 - Rebalancing Auswertung ab Sommer 2025  
 - Aufbau interaktiver KPIs und Dashboards
 
@@ -136,7 +135,7 @@ Alle weiteren Daten werden derzeit noch manuell dokumentiert
 
 Dieses Projekt ist ein strukturierter, ehrlicher Einstieg in Finanzdaten.  
 Es basiert auf echten Entscheidungen, realem Risiko und klarem Lernziel.  
-Die Excel Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion und technisches Wachstum
+Die Excel-Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion und technisches Wachstum.
 
 ---
 
@@ -161,16 +160,16 @@ Die Excel Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 ![ETF Allocation Diagramm](Asset_Allocation_June25.png)  
 ![Crypto Allocation Diagramm](Crypto_Allocation_June25.png)
----
 
 ---
 
 ### 🔍 Hinweis für Interessierte an persönlichen Hintergründen
 
 Weitere Informationen zu Motivation, Lebenssituation, Erfahrungen und persönlichen Beweggründen befinden sich im separaten Bereich dieses Projekts:  
- [Zur persönlichen README](./README.md)
+👉 [Zur persönlichen README](./README.md)
 
 ---
+
 **Autor**: A.R.  
 **Projektzeitraum**: Start Mai 2025, geplant bis mindestens Mai 2027
 
@@ -184,7 +183,7 @@ Als ich anfing, hatte ich keinerlei Vorwissen und keine Lehrkraft. Ich habe mir 
 
 Natürlich ist ChatGPT nicht perfekt. Manchmal gab es falsche Antworten, unnötig komplizierte Erklärungen oder Missverständnisse. Und ja, manchmal bin ich daran fast verzweifelt.
 
-👉 Deshalb gilt: Wichtige Ergebnisse immer doppelt prüfen. Besonders bei Finanzen, Steuern, Web3 oder Gebührenangaben. Der Bot hat gelegentlich absurde Gebühren genannt oder veraltete Informationen geliefert. Kritische Aussagen immer hinterfragen. Woher kommt das?
+👉 Deshalb gilt: Wichtige Ergebnisse immer doppelt prüfen. Besonders bei Finanzen, Steuern, Web3 oder Gebührenangaben. Der Bot hat gelegentlich absurde Gebühren genannt oder veraltete Informationen geliefert. Kritische Aussagen immer hinterfragen: *Woher kommt das?*
 
 Aber am Ende hat es funktioniert. Das Tool wurde ein Teil meines Lernprozesses, meiner Struktur und manchmal sogar meiner Therapie. Trotz Missverständnissen, Diskussionen und falscher Infos:  
 **Ich werde mit KI aufwachsen und weiterlernen.**
