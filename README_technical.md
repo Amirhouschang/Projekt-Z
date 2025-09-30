@@ -1,4 +1,4 @@
-# Technischer Projektüberblick (Stand: 2. September 2025)
+# Technischer Projektüberblick (Stand: 1. Oktober 2025)
 
 Dieser Abschnitt ergänzt den persönlichen Teil des Projekts um eine sachliche und strukturierte Übersicht aller verwendeten Datenquellen, Methoden, Tools und geplanten Schritte.
 
@@ -41,7 +41,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ## Was enthält dieses Projekt?
 
-### 1. [Crypto & NFT Portfolio](Crypto_Portfolio_September_2025.xlsx)
+### 1. [Crypto & NFT Portfolio](crypto_september2025.xlsx)
 
 **Inhalte**
 
@@ -79,7 +79,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*  
 
-**[Aktueller Portfoliostand – 2. September 2025](Investment_Plan_September_2025.xlsx)**
+**[Aktueller Portfoliostand – 2. September 2025](Investment_september2025.xlsx)**
 
 **Visualisierungen**
 
@@ -146,21 +146,25 @@ Die Excel-Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 **Mai 2025**
 
-- [nvestment Plan_Mai 2025](./01_Investment_Plan_2025_Rebalancing.xlsx)  
+- [Investment Plan_Mai 2025](./01_Investment_Plan_2025_Rebalancing.xlsx)  
 - [Crypto Portfolio_Mai 2025](./01_Crypto_Art_Portfolio_2025.xlsx)  
 
 
 **Juni 2025**
 
-- [Investment_Plan_Juni 2025_Rebalancing.xlsx](Investment_Plan_June25.xlsx)  
-- [Crypto Portfolio_Juni 2025.xlsx](Crypto_Art_Portfolio_June_2025.xlsx)  
-
+- [Investment_Plan_Juni 2025](Investment_Plan_June25.xlsx)  
+- [Crypto Portfolio_Juni 2025](Crypto_Art_Portfolio_June_2025.xlsx)
+- 
 
 **August 2025**
 
 - [Investment Plan August 2025](Investment_Plan_September_2025.xlsx)
 - [Crypto Portfolio August 2025](Crypto_Portfolio_September_2025.xlsx)
 
+**September 2025**
+
+- [Investment Plan Septemebr 2025](Investment_september2025.xlsx)
+- [Crypto Portfolio September 2025](crypto_september2025.xlsx)
 
 
 ---
