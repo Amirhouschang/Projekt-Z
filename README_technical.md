@@ -102,7 +102,9 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*  
 
-**[Aktueller Portfoliostand – 2. September 2025](Investment_september2025.xlsx)**
+
+**[Aktueller Portfoliostand – 1. Oktober 2025](Investment_september2025.xlsx)**
+
 
 ![Investment Tabelle](investment_tabelle_september2025.png)  
 
