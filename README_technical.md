@@ -45,9 +45,8 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ![Summary](core_vs_mini_tabelle_september2025.png)  
 
-**Inhalte**
- 
- **I. Core**
+
+ ### I. Core
 - Coins: Bitcoin, Ethereum, Solana, Tezos   
 - Käufe und Verkäufe (inkl. NFTs mit Tezos)  
 - NFT Plattform: Objkt.com  
@@ -64,7 +63,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 *Vergleich der Investitionssumme und aktuellen Werte je Coin*
 
 
-**II. Mini** 
+### II. Mini 
 
 ![Tabelle II](mini_tabelle_september2025.png)
 
@@ -75,7 +74,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 *Vergleich der Investitionssumme und aktuellen Werte je Coin*
 
 
-**Core vs. Mini**
+### III. Core vs. Mini
 
 ![Tabelle III](core_vs_mini_tabelle_september2025.png)
 
