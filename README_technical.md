@@ -105,7 +105,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ---
 
-**[Aktueller Portfoliostand – 1. Oktober 2025](Investment_september2025.xlsx)**
+**[3. Aktueller Portfoliostand – 1. Oktober 2025](Investment_september2025.xlsx)**
 
 
 ![Investment Tabelle](investment_tabelle_september2025.png)  
@@ -123,7 +123,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ---
 
-**Summary**
+**4. Summary**
 
 ![Summary Taballe](summary_september2025.png)
 
