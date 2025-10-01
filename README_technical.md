@@ -103,6 +103,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*  
 
+---
 
 **[Aktueller Portfoliostand – 1. Oktober 2025](Investment_september2025.xlsx)**
 
@@ -134,7 +135,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ![Return (%)](summary_return_september2025.png)
 
-
+---
 
 ## Methoden und Tools
 
@@ -189,15 +190,14 @@ Die Excel-Struktur dient als Grundlage für kontinuierliche Analyse, Reflexion u
 
 **Mai 2025**
 
-- [Investment Plan_Mai 2025](./01_Investment_Plan_2025_Rebalancing.xlsx)  
-- [Crypto Portfolio_Mai 2025](./01_Crypto_Art_Portfolio_2025.xlsx)  
+- [Investment Plan Mai 2025](./01_Investment_Plan_2025_Rebalancing.xlsx)  
+- [Crypto Portfolio Mai 2025](./01_Crypto_Art_Portfolio_2025.xlsx)  
 
 
 **Juni 2025**
 
-- [Investment_Plan_Juni 2025](Investment_Plan_June25.xlsx)  
-- [Crypto Portfolio_Juni 2025](Crypto_Art_Portfolio_June_2025.xlsx)
-- 
+- [Investment Plan Juni 2025](Investment_Plan_June25.xlsx)  
+- [Crypto Portfolio Juni 2025](Crypto_Art_Portfolio_June_2025.xlsx)
 
 **August 2025**
 
