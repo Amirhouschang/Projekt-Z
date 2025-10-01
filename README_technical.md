@@ -81,7 +81,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ![Core vs. Mini Crypto](core_vs_mini_september2025.png)  
 
-![Return](core_vs_mini_return(%)_september2025.png)
+![Return](return_september2025.png)
 
 ---
 
