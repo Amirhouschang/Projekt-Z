@@ -73,7 +73,7 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 ![Invested vs. Value – Mini Crypto](Invested_value__mini_september2025.png)  
 *Vergleich der Investitionssumme und aktuellen Werte je Coin*
 
-**Core vs. Mini*
+**Core vs. Mini**
 
 ![Tabelle III](core_vs_mini_tabelle_september2025.png)
 
