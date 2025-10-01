@@ -43,21 +43,44 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 ### 1. [Crypto & NFT Portfolio](crypto_september2025.xlsx)
 
-**Inhalte**
+![Summary](core_vs_mini_tabelle_september2025.png)  
 
-- Coins: Bitcoin, Ethereum, Solana, Tezos  
-- Rewards, Staking, Plattformen  
+**Inhalte**
+ 
+ **I. Core**
+- Coins: Bitcoin, Ethereum, Solana, Tezos   
 - Käufe und Verkäufe (inkl. NFTs mit Tezos)  
 - NFT Plattform: Objkt.com  
 - Zusammenführung von NFT Kosten mit Krypto-Daten im Summary  
 
+![Tabelle I](cor_tabelle_september2025.png)  
+
 **Visualisierungen**
 
-![Crypto Allocation](Crypto_Allocation_September.png)  
+![Crypto Allocation](allocation_core_september2025.png)  
 *Portfolioanteile nach Coin – visuelle Verteilung der Assets*
 
-![Invested vs. Value – Crypto](Invested_vs_Value_September2025.png)  
+![Invested vs. Value – Crypto](invested_value_core_september2025.png)  
 *Vergleich der Investitionssumme und aktuellen Werte je Coin*
+
+**II. Mini** 
+
+![Tabelle II](mini_tabelle_september2025.png)
+
+![Mini Crypto Allocation](allocation_mini_september2025.png)  
+*Portfolioanteile nach Coin – visuelle Verteilung der Assets*
+
+![Invested vs. Value – Mini Crypto](Invested_value__mini_september2025.png)  
+*Vergleich der Investitionssumme und aktuellen Werte je Coin*
+
+**Core vs. Mini*
+
+![Tabelle III](core_vs_mini_tabelle_september2025.png)
+
+![Core vs. Mini Crypto](core_vs_mini_september2025.png)  
+
+![Core vs. Mini_ Return (%)](core_vs_mini_return(%)_september2025.png)  
+
 
 ---
 
@@ -75,23 +98,39 @@ Alle Daten, Diagramme und Visualisierungen werden jeweils zu Beginn eines Monats
 
 **Investmenttabelle (Auszug)**
 
-![Investment Table](Fixed_Plan_2025.png)
+![Investment Tablle](Fixed_Plan_2025.png)
 
 *Detailübersicht: Plattform, ISIN, Anlageklasse, Verteilung*  
 
 **[Aktueller Portfoliostand – 2. September 2025](Investment_september2025.xlsx)**
 
+![Investment Tabelle](investment_tabelle_september2025.png)  
+
+
 **Visualisierungen**
 
-![Aktuelle Asset Allocation](Asset_Allocation_September_2025.png)  
+![Aktuelle Asset Allocation](asset_allocation_september2025.png)  
 
-![Portfolio Wert vs. Investiert](Asset_Invested_Value_September_2025.png)  
+![Portfolio Wert vs. Investiert](investment_vs_value_asset_september2025.png)  
 
-![Result](Result_Asset_September_2025.png)
+![Result](result_asset_september2025.png)
 
 *Wertentwicklung pro Position im Vergleich zur Investition*
 
 ---
+**Summary**
+
+![Summary Taballe](summary_september2025.png)
+
+![Total Summary](total_summary_september2025.png)
+
+![Summary Allocation (%)](summary_allocation_september2025.png)
+
+![Value vs. Invested](summary_value_vs_invested_september2025.png)
+
+![Return (%)](summary_return_september2025.png)
+
+
 
 ## Methoden und Tools
 
